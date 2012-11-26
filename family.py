@@ -79,7 +79,7 @@ SPOUSE = RelationType("Spouse", "Spouse")
 def Parent(parent, child):
     return Relation(parent, PARENT, child)
 
-def Child(parent, child):
+def Child(child, parent):
     return Relation(child, CHILD, parent)
 
 def Sibling(sib1, sib2):
