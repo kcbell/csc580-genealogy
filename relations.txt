@@ -1,0 +1,41 @@
+Parent^^
+Mother^^
+Father^^
+Mom^^
+Dad^^
+
+Child^^
+Son^^
+Daughter^^*
+
+Grandchild*
+Grandson*
+Granddaughter*
+
+Sibling^^
+Brother^^
+Sister^^
+
+Spouse^
+Wife^
+Husband^
+
+Aunt*
+Uncle*
+
+Nephew*
+Neice*
+
+Grandparent*
+Grandfather*
+Grandmother*
+Grandpa*
+Grandma*
+
+Cousin**
+
+*  Great
+** First, Second, Third (once-, twice-, thrice-, removed)
+^  Ex-
+^^ In-law (Ex-In-Law), Step (Ex-Step)
+
