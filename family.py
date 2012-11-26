@@ -12,7 +12,10 @@ class RelationType(object):
     def __hash__(self):
         #hash should be same for PARENT and CHILD (for Relation)
         return hash(self.rl) + hash(self.lr) 
-        
+    
+    def __str__(self):
+        return self.lr
+    
     def swap(self):
         return RelationType(self.rl, self.lr)
 
@@ -29,7 +32,7 @@ class Person(object):
         self.gender = gender
         
     def __str__(self):
-        return "?" if len(self.cnames) == 0 else self.cnames[0]
+        return "?" if len(self.cnames) == 0 else iter(self.cnames).next()
     
     def __eq__(self, rhs):
         return (len(self.cnames & rhs.cnames) > 0) or \
@@ -49,7 +52,7 @@ class Relation(object):
         self.notes = []
 
     def __str__(self):
-        return "%s %s of %s" % (str(self.p1), str(self.type), str(self.p2))
+        return "%s is %s of %s" % (str(self.p1), str(self.type), str(self.p2))
     
     def __hash__(self):
         # lots of collisions, but we can't accurately hash people...
