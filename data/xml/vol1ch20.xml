@@ -1,0 +1,2843 @@
+<text>
+<s>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos="vbd">was</w>
+<w pos="rb">not</w>
+<w pos="vbn">left</w>
+<w pos="jj">long</w>
+<w pos="to">to</w>
+<w pos="dt">the</w>
+<w pos="jj">silent</w>
+<w pos="nn">contemplation</w>
+<w pos="in">of</w>
+<coref set-id="set_1">
+<w pos="prp$">his</w>
+</coref>
+<w pos="jj">successful</w>
+<w pos="nn">love</w>
+<w pos=":">;</w>
+<w pos="in">for</w>
+<w pos="nnp">Mrs.</w>
+<w pos="nnp">Bennet</w>
+<w pos=",">,</w>
+<w pos="vbg">having</w>
+<w pos="vbn">dawdled</w>
+<w pos="in">about</w>
+<w pos="in">in</w>
+<w pos="dt">the</w>
+<w pos="nn">vestibule</w>
+<w pos="to">to</w>
+<w pos="vb">watch</w>
+<w pos="in">for</w>
+<w pos="dt">the</w>
+<w pos="nn">end</w>
+<w pos="in">of</w>
+<w pos="dt">the</w>
+<w pos="nn">conference</w>
+<w pos=",">,</w>
+<w pos="dt">no</w>
+<w pos="rbr">sooner</w>
+<w pos="vbd">saw</w>
+<coref set-id="set_23">
+<w pos="nnp">Elizabeth</w>
+</coref>
+<w pos="vb">open</w>
+<w pos="dt">the</w>
+<w pos="nn">door</w>
+<w pos="cc">and</w>
+<w pos="in">with</w>
+<w pos="jj">quick</w>
+<w pos="nn">step</w>
+<w pos="vbp">pass</w>
+<coref set-id="set_23">
+<w pos="prp">her</w>
+</coref>
+<w pos="in">towards</w>
+<w pos="dt">the</w>
+<w pos="nn">staircase</w>
+<w pos=",">,</w>
+<w pos="in">than</w>
+<coref set-id="set_23">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbd">entered</w>
+<w pos="dt">the</w>
+<w pos="nn">breakfast</w>
+<w pos="nn">room</w>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="vbd">congratulated</w>
+<w pos="dt">both</w>
+<coref set-id="set_1">
+<w pos="prp">him</w>
+</coref>
+<w pos="cc">and</w>
+<coref set-id="set_23">
+<w pos="prp">herself</w>
+</coref>
+<w pos="in">in</w>
+<coref set-id="set_14">
+<w pos="jj">warm</w>
+<w pos="nns">terms</w>
+</coref>
+<w pos="in">on</w>
+<w pos="dt">the</w>
+<w pos="jj">happy</w>
+<w pos="nn">prospect</w>
+<w pos="in">of</w>
+<coref set-id="set_14">
+<w pos="prp$">their</w>
+</coref>
+<w pos="jj">nearer</w>
+<w pos="nn">connection</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos="vbd">received</w>
+<w pos="cc">and</w>
+<w pos="vbd">returned</w>
+<coref set-id="set_31">
+<w pos="dt">these</w>
+<w pos="nns">felicitations</w>
+</coref>
+<w pos="in">with</w>
+<w pos="jj">equal</w>
+<w pos="nn">pleasure</w>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="rb">then</w>
+<w pos="vbd">proceeded</w>
+<w pos="to">to</w>
+<w pos="vb">relate</w>
+<w pos="dt">the</w>
+<w pos="nns">particulars</w>
+<w pos="in">of</w>
+<coref set-id="set_31">
+<w pos="prp$">their</w>
+</coref>
+<w pos="nn">interview</w>
+<w pos=",">,</w>
+<w pos="in">with</w>
+<w pos="dt">the</w>
+<w pos="nn">result</w>
+<w pos="in">of</w>
+<w pos="wdt">which</w>
+<coref set-id="set_1">
+<w pos="prp">he</w>
+</coref>
+<w pos="vbd">trusted</w>
+<coref set-id="set_1">
+<w pos="prp">he</w>
+</coref>
+<w pos="vbd">had</w>
+<coref set-id="set_19">
+<w pos="dt">every</w>
+<w pos="nn">reason</w>
+</coref>
+<w pos="to">to</w>
+<w pos="vb">be</w>
+<w pos="jj">satisfied</w>
+<w pos=",">,</w>
+<w pos="in">since</w>
+<w pos="dt">the</w>
+<w pos="nn">refusal</w>
+<w pos="wdt">which</w>
+<coref set-id="set_1">
+<coref set-id="set_1">
+<w pos="prp$">his</w>
+</coref>
+<w pos="nn">cousin</w>
+</coref>
+<w pos="vbd">had</w>
+<w pos="rb">stedfastly</w>
+<w pos="vbn">given</w>
+<coref set-id="set_1">
+<w pos="prp">him</w>
+</coref>
+<w pos="md">would</w>
+<w pos="rb">naturally</w>
+<w pos="vb">flow</w>
+<w pos="in">from</w>
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="jj">bashful</w>
+<w pos="nn">modesty</w>
+<w pos="cc">and</w>
+<w pos="dt">the</w>
+<w pos="jj">genuine</w>
+<w pos="nn">delicacy</w>
+<w pos="in">of</w>
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">character</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="dt">This</w>
+<w pos="nn">information</w>
+<w pos=",">,</w>
+<w pos="rb">however</w>
+<w pos=",">,</w>
+<w pos="vbd">startled</w>
+<coref set-id="set_1">
+<w pos="nnp">Mrs.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos="cd">;&amp;#8212</w>
+<w pos="nn">;she</w>
+<w pos="md">would</w>
+<w pos="vb">have</w>
+<w pos="vbn">been</w>
+<w pos="jj">glad</w>
+<w pos="to">to</w>
+<w pos="vb">be</w>
+<w pos="rb">equally</w>
+<w pos="jj">satisfied</w>
+<w pos="in">that</w>
+<coref set-id="set_1">
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">daughter</w>
+</coref>
+<w pos="vbd">had</w>
+<w pos="vbn">meant</w>
+<w pos="to">to</w>
+<w pos="vb">encourage</w>
+<coref set-id="set_1">
+<w pos="prp">him</w>
+</coref>
+<w pos="in">by</w>
+<w pos="vbg">protesting</w>
+<w pos="in">against</w>
+<coref set-id="set_1">
+<w pos="prp$">his</w>
+</coref>
+<w pos="nns">proposals</w>
+<w pos=",">,</w>
+<w pos="cc">but</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbd">dared</w>
+<w pos="rb">not</w>
+<w pos="to">to</w>
+<w pos="vb">believe</w>
+<coref set-id="set_17">
+<w pos="prp">it</w>
+</coref>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="md">could</w>
+<w pos="rb">not</w>
+<w pos="vb">help</w>
+<w pos="vbg">saying</w>
+<w pos="rb">so</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="cc">But</w>
+<w pos="vb">depend</w>
+<w pos="in">upon</w>
+<coref set-id="set_17">
+<w pos="prp">it</w>
+</coref>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbd">added</w>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<w pos="in">that</w>
+<coref set-id="set_1">
+<w pos="nnp">Lizzy</w>
+</coref>
+<w pos="md">shall</w>
+<w pos="vb">be</w>
+<w pos="vbn">brought</w>
+<w pos="to">to</w>
+<coref set-id="set_19">
+<w pos="nn">reason</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="md">will</w>
+<w pos="vb">speak</w>
+<w pos="to">to</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="in">about</w>
+<coref set-id="set_17">
+<w pos="prp">it</w>
+</coref>
+<w pos="vbz">myself</w>
+<w pos="rb">directly</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="prp">She</w>
+</coref>
+<w pos="vbz">is</w>
+<coref set-id="set_1">
+<w pos="dt">a</w>
+<w pos="rb">very</w>
+<w pos="jj">headstrong</w>
+<w pos="jj">foolish</w>
+<w pos="nn">girl</w>
+</coref>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="vbz">does</w>
+<w pos="rb">not</w>
+<w pos="vb">know</w>
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="jj">own</w>
+<w pos="nn">interest</w>
+<w pos=":">;</w>
+<w pos="cc">but</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="md">will</w>
+<w pos="vb">make</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="vb">know</w>
+<coref set-id="set_17">
+<w pos="prp">it</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="&quot;">"</w>
+<w pos="nn">Pardon</w>
+<coref set-id="set_4">
+<w pos="prp">me</w>
+</coref>
+<w pos="in">for</w>
+<w pos="vbg">interrupting</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos=",">,</w>
+<w pos="nnp">Madam</w>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<w pos="vbd">cried</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos=":">;</w>
+<w pos="&quot;">"</w>
+<w pos="cc">but</w>
+<w pos="in">if</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbz">is</w>
+<w pos="rb">really</w>
+<w pos="jj">headstrong</w>
+<w pos="cc">and</w>
+<w pos="jj">foolish</w>
+<w pos=",">,</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">know</w>
+<w pos="rb">not</w>
+<w pos="in">whether</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="md">would</w>
+<w pos="rb">altogether</w>
+<w pos="vb">be</w>
+<coref set-id="set_1">
+<w pos="dt">a</w>
+<w pos="rb">very</w>
+<w pos="jj">desirable</w>
+<w pos="nn">wife</w>
+</coref>
+<w pos="to">to</w>
+<w pos="dt">a</w>
+<w pos="nn">man</w>
+<w pos="in">in</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="nn">situation</w>
+<w pos=",">,</w>
+<w pos="wp">who</w>
+<w pos="rb">naturally</w>
+<w pos="vbz">looks</w>
+<w pos="in">for</w>
+<w pos="nn">happiness</w>
+<w pos="in">in</w>
+<w pos="dt">the</w>
+<coref set-id="set_21">
+<w pos="nn">marriage</w>
+</coref>
+<w pos="nn">state</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="in">If</w>
+<w pos="rb">therefore</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="rb">actually</w>
+<w pos="vbz">persists</w>
+<w pos="in">in</w>
+<w pos="vbg">rejecting</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="nn">suit</w>
+<w pos=",">,</w>
+<w pos="rb">perhaps</w>
+<coref set-id="set_17">
+<w pos="prp">it</w>
+</coref>
+<w pos="vbd">were</w>
+<w pos="jjr">better</w>
+<w pos="rb">not</w>
+<w pos="to">to</w>
+<w pos="vb">force</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="in">into</w>
+<w pos="vbg">accepting</w>
+<coref set-id="set_4">
+<w pos="prp">me</w>
+</coref>
+<w pos=",">,</w>
+<w pos="in">because</w>
+<w pos="in">if</w>
+<w pos="jj">liable</w>
+<w pos="to">to</w>
+<w pos="jj">such</w>
+<w pos="nns">defects</w>
+<w pos="in">of</w>
+<w pos="nn">temper</w>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="md">could</w>
+<w pos="rb">not</w>
+<w pos="vb">contribute</w>
+<w pos="rb">much</w>
+<w pos="to">to</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="nn">felicity</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="&quot;">"</w>
+<coref set-id="set_27">
+<w pos="nnp">Sir</w>
+</coref>
+<w pos=",">,</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="rb">quite</w>
+<w pos="vbp">misunderstand</w>
+<coref set-id="set_4">
+<w pos="prp">me</w>
+</coref>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<w pos="vbd">said</w>
+<coref set-id="set_1">
+<w pos="nnp">Mrs.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos=",">,</w>
+<w pos="jj">alarmed</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_1">
+<w pos="nnp">Lizzy</w>
+</coref>
+<w pos="vbz">is</w>
+<w pos="rb">only</w>
+<w pos="jj">headstrong</w>
+<w pos="in">in</w>
+<w pos="jj">such</w>
+<w pos="nns">matters</w>
+<w pos="in">as</w>
+<w pos="dt">these</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="in">In</w>
+<w pos="dt">every</w>
+<w pos="nn">thing</w>
+<w pos="rb">else</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbz">is</w>
+<w pos="rb">as</w>
+<w pos="jj">good</w>
+<w pos="vbg">natured</w>
+<coref set-id="set_1">
+<w pos="dt">a</w>
+<w pos="nn">girl</w>
+</coref>
+<w pos="in">as</w>
+<w pos="rb">ever</w>
+<w pos="vbn">lived</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="md">will</w>
+<w pos="vb">go</w>
+<w pos="rb">directly</w>
+<w pos="to">to</w>
+<coref set-id="set_12">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<coref set-id="set_22">
+<w pos="prp">we</w>
+</coref>
+<w pos="md">shall</w>
+<w pos="rb">very</w>
+<w pos="rb">soon</w>
+<w pos="vb">settle</w>
+<coref set-id="set_17">
+<w pos="prp">it</w>
+</coref>
+<w pos="in">with</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos=",">,</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">am</w>
+<w pos="jj">sure</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_1">
+<w pos="prp">She</w>
+</coref>
+<w pos="md">would</w>
+<w pos="rb">not</w>
+<w pos="vb">give</w>
+<coref set-id="set_12">
+<w pos="prp">him</w>
+</coref>
+<coref set-id="set_3">
+<w pos="nn">time</w>
+</coref>
+<w pos="to">to</w>
+<w pos="vb">reply</w>
+<w pos=",">,</w>
+<w pos="cc">but</w>
+<w pos="vbg">hurrying</w>
+<w pos="rb">instantly</w>
+<w pos="to">to</w>
+<coref set-id="set_12">
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">husband</w>
+</coref>
+<w pos=",">,</w>
+<w pos="vbn">called</w>
+<w pos="rp">out</w>
+<w pos="in">as</w>
+<coref set-id="set_12">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbd">entered</w>
+<coref set-id="set_11">
+<w pos="dt">the</w>
+<w pos="nn">library</w>
+</coref>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<w pos="uh">Oh</w>
+<w pos=".">!</w>
+</s><s>
+<coref set-id="set_12">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos=",">,</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="vbp">are</w>
+<w pos="vbd">wanted</w>
+<w pos="rb">immediately</w>
+<w pos=":">;</w>
+<coref set-id="set_22">
+<w pos="prp">we</w>
+</coref>
+<w pos="vbp">are</w>
+<w pos="dt">all</w>
+<w pos="in">in</w>
+<w pos="dt">an</w>
+<w pos="nn">uproar</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_0">
+<w pos="prp">You</w>
+</coref>
+<w pos="md">must</w>
+<w pos="vb">come</w>
+<w pos="cc">and</w>
+<w pos="vb">make</w>
+<coref set-id="set_1">
+<w pos="nnp">Lizzy</w>
+</coref>
+<w pos="vb">marry</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos=",">,</w>
+<w pos="in">for</w>
+<coref set-id="set_12">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbz">vows</w>
+<coref set-id="set_12">
+<w pos="prp">she</w>
+</coref>
+<w pos="md">will</w>
+<w pos="rb">not</w>
+<w pos="vb">have</w>
+<coref set-id="set_1">
+<w pos="prp">him</w>
+</coref>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="in">if</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="vbp">do</w>
+<w pos="rb">not</w>
+<w pos="vb">make</w>
+<w pos="nn">haste</w>
+<coref set-id="set_1">
+<w pos="prp">he</w>
+</coref>
+<w pos="md">will</w>
+<w pos="vb">change</w>
+<coref set-id="set_1">
+<w pos="prp$">his</w>
+</coref>
+<w pos="nn">mind</w>
+<w pos="cc">and</w>
+<w pos="rb">not</w>
+<w pos="vb">have</w>
+<coref set-id="set_12">
+<w pos="prp">her</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos="vbd">raised</w>
+<coref set-id="set_20">
+<coref set-id="set_1">
+<w pos="prp$">his</w>
+</coref>
+<w pos="nns">eyes</w>
+</coref>
+<w pos="in">from</w>
+<coref set-id="set_1">
+<w pos="prp$">his</w>
+</coref>
+<w pos="nn">book</w>
+<w pos="in">as</w>
+<coref set-id="set_12">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbd">entered</w>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="vbn">fixed</w>
+<coref set-id="set_20">
+<w pos="prp">them</w>
+</coref>
+<w pos="in">on</w>
+<coref set-id="set_12">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">face</w>
+<w pos="in">with</w>
+<w pos="dt">a</w>
+<w pos="jj">calm</w>
+<w pos="nn">unconcern</w>
+<w pos="wdt">which</w>
+<w pos="vbd">was</w>
+<w pos="rb">not</w>
+<w pos="in">in</w>
+<w pos="dt">the</w>
+<w pos="jjs">least</w>
+<w pos="vbn">altered</w>
+<w pos="in">by</w>
+<coref set-id="set_12">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">communication</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">have</w>
+<w pos="rb">not</w>
+<coref set-id="set_9">
+<w pos="dt">the</w>
+<w pos="nn">pleasure</w>
+</coref>
+<w pos="in">of</w>
+<w pos="vbg">understanding</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<w pos="vbd">said</w>
+<coref set-id="set_1">
+<w pos="prp">he</w>
+</coref>
+<w pos=",">,</w>
+<w pos="wrb">when</w>
+<coref set-id="set_12">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbd">had</w>
+<w pos="vbn">finished</w>
+<coref set-id="set_12">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">speech</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="in">Of</w>
+<w pos="wp">what</w>
+<w pos="vbp">are</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="vbg">talking</w>
+<w pos=".">?</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="&quot;">"</w>
+<w pos="in">Of</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos="cc">and</w>
+<coref set-id="set_1">
+<w pos="nnp">Lizzy</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="nnp">Lizzy</w>
+</coref>
+<w pos="vbz">declares</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="md">will</w>
+<w pos="rb">not</w>
+<w pos="vb">have</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos="vbz">begins</w>
+<w pos="to">to</w>
+<w pos="vb">say</w>
+<w pos="in">that</w>
+<coref set-id="set_1">
+<w pos="prp">he</w>
+</coref>
+<w pos="md">will</w>
+<w pos="rb">not</w>
+<w pos="vb">have</w>
+<coref set-id="set_1">
+<w pos="nnp">Lizzy</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="&quot;">"</w>
+<w pos="cc">And</w>
+<w pos="wp">what</w>
+<w pos="vbp">am</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="to">to</w>
+<w pos="vb">do</w>
+<w pos="in">on</w>
+<w pos="dt">the</w>
+<w pos="nn">occasion</w>
+<w pos=".">?</w>
+</s><s>
+<w pos="nns">&amp;#8212;It</w>
+<w pos="vbz">seems</w>
+<w pos="dt">an</w>
+<w pos="jj">hopeless</w>
+<w pos="nn">business</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="&quot;">"</w>
+<w pos="vb">Speak</w>
+<w pos="to">to</w>
+<coref set-id="set_1">
+<w pos="nnp">Lizzy</w>
+</coref>
+<w pos="in">about</w>
+<coref set-id="set_1">
+<w pos="prp">it</w>
+</coref>
+<coref set-id="set_32">
+<w pos="prp">yourself</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="vb">Tell</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="in">that</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="vbp">insist</w>
+<w pos="in">upon</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="vbg">marrying</w>
+<coref set-id="set_1">
+<w pos="prp">him</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="&quot;">"</w>
+<w pos="vb">Let</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="vb">be</w>
+<w pos="vbn">called</w>
+<w pos="rp">down</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="prp">She</w>
+</coref>
+<w pos="md">shall</w>
+<w pos="vb">hear</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="nn">opinion</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_1">
+<w pos="nnp">Mrs.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos="vbd">rang</w>
+<w pos="dt">the</w>
+<w pos="nn">bell</w>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<coref set-id="set_1">
+<w pos="nnp">Miss</w>
+<w pos="nnp">Elizabeth</w>
+</coref>
+<w pos="vbd">was</w>
+<w pos="vbn">summoned</w>
+<w pos="to">to</w>
+<coref set-id="set_11">
+<w pos="dt">the</w>
+<w pos="nn">library</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="vbn">Come</w>
+<w pos="rb">here</w>
+<w pos=",">,</w>
+<w pos="nn">child</w>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<w pos="vbd">cried</w>
+<coref set-id="set_6">
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">father</w>
+</coref>
+<w pos="in">as</w>
+<coref set-id="set_6">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbd">appeared</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">have</w>
+<w pos="vbn">sent</w>
+<w pos="in">for</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="in">on</w>
+<coref set-id="set_25">
+<w pos="dt">an</w>
+<w pos="nn">affair</w>
+</coref>
+<w pos="in">of</w>
+<w pos="nn">importance</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">understand</w>
+<w pos="in">that</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos="vbz">has</w>
+<w pos="vbn">made</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<coref set-id="set_18">
+<w pos="dt">an</w>
+<w pos="nn">offer</w>
+</coref>
+<w pos="in">of</w>
+<coref set-id="set_21">
+<w pos="nn">marriage</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="vbz">Is</w>
+<coref set-id="set_1">
+<w pos="prp">it</w>
+</coref>
+<w pos="jj">true</w>
+<w pos=".">?</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_1">
+<w pos="nnp">Elizabeth</w>
+</coref>
+<w pos="vbd">replied</w>
+<w pos="in">that</w>
+<coref set-id="set_1">
+<w pos="prp">it</w>
+</coref>
+<w pos="vbd">was</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="vbd">Very</w>
+<w pos="rb">well</w>
+<w pos="nnp">&amp;#8212;and</w>
+<coref set-id="set_18">
+<w pos="dt">this</w>
+<w pos="nn">offer</w>
+</coref>
+<w pos="in">of</w>
+<coref set-id="set_21">
+<w pos="nn">marriage</w>
+</coref>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="vbp">have</w>
+<w pos="vbn">refused</w>
+<w pos=".">?</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="&quot;">"</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">have</w>
+<w pos=",">,</w>
+<coref set-id="set_27">
+<w pos="nnp">Sir</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="&quot;">"</w>
+<w pos="nn">Very</w>
+<w pos="rb">well</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_22">
+<w pos="prp">We</w>
+</coref>
+<w pos="rb">now</w>
+<w pos="vbp">come</w>
+<w pos="to">to</w>
+<coref set-id="set_24">
+<w pos="dt">the</w>
+<w pos="nn">point</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_7">
+<w pos="prp$">Your</w>
+</coref>
+<w pos="nn">mother</w>
+<w pos="vbz">insists</w>
+<w pos="in">upon</w>
+<coref set-id="set_7">
+<w pos="prp$">your</w>
+</coref>
+<w pos="vbg">accepting</w>
+<coref set-id="set_1">
+<w pos="prp">it</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="vbz">Is</w>
+<w pos="rb">not</w>
+<coref set-id="set_1">
+<w pos="prp">it</w>
+</coref>
+<w pos="rb">so</w>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<w pos="nnp">Mrs.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos=".">?</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="&quot;">"</w>
+<w pos="uh">Yes</w>
+<w pos=",">,</w>
+<w pos="cc">or</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="md">will</w>
+<w pos="rb">never</w>
+<w pos="vb">see</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="rb">again</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="&quot;">"</w>
+<w pos="dt">An</w>
+<w pos="jj">unhappy</w>
+<w pos="nn">alternative</w>
+<w pos="vbz">is</w>
+<w pos="in">before</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<w pos="nnp">Elizabeth</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="in">From</w>
+<coref set-id="set_30">
+<w pos="dt">this</w>
+<w pos="nn">day</w>
+</coref>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="md">must</w>
+<w pos="vb">be</w>
+<w pos="dt">a</w>
+<w pos="nn">stranger</w>
+<w pos="to">to</w>
+<w pos="cd">one</w>
+<w pos="in">of</w>
+<coref set-id="set_0">
+<w pos="prp$">your</w>
+</coref>
+<w pos="nns">parents</w>
+<w pos="nn">.&amp;#8212;Your</w>
+</s><s>
+<w pos="nn">mother</w>
+<w pos="md">will</w>
+<w pos="rb">never</w>
+<w pos="vb">see</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="rb">again</w>
+<w pos="in">if</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="vbp">do</w>
+<w pos="rb">not</w>
+<w pos="vb">marry</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="md">will</w>
+<w pos="rb">never</w>
+<w pos="vb">see</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="rb">again</w>
+<w pos="in">if</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="vbp">do</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_1">
+<w pos="nnp">Elizabeth</w>
+</coref>
+<w pos="md">could</w>
+<w pos="rb">not</w>
+<w pos="cc">but</w>
+<w pos="vbp">smile</w>
+<w pos="in">at</w>
+<w pos="jj">such</w>
+<w pos="dt">a</w>
+<w pos="nn">conclusion</w>
+<w pos="in">of</w>
+<w pos="jj">such</w>
+<w pos="dt">a</w>
+<w pos="nn">beginning</w>
+<w pos=":">;</w>
+<w pos="cc">but</w>
+<coref set-id="set_1">
+<w pos="nnp">Mrs.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos=",">,</w>
+<w pos="wp">who</w>
+<w pos="vbd">had</w>
+<w pos="vbn">persuaded</w>
+<coref set-id="set_1">
+<w pos="prp">herself</w>
+</coref>
+<w pos="in">that</w>
+<coref set-id="set_1">
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">husband</w>
+</coref>
+<w pos="vbd">regarded</w>
+<coref set-id="set_25">
+<w pos="dt">the</w>
+<w pos="nn">affair</w>
+</coref>
+<w pos="in">as</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbd">wished</w>
+<w pos=",">,</w>
+<w pos="vbd">was</w>
+<w pos="rb">excessively</w>
+<w pos="jj">disappointed</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="wp">What</w>
+<w pos="vbp">do</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="vb">mean</w>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos=",">,</w>
+<w pos="in">by</w>
+<w pos="vbg">talking</w>
+<w pos="in">in</w>
+<coref set-id="set_26">
+<w pos="dt">this</w>
+<w pos="nn">way</w>
+</coref>
+<w pos=".">?</w>
+</s><s>
+<coref set-id="set_0">
+<w pos="prp">You</w>
+</coref>
+<w pos="vbd">promised</w>
+<coref set-id="set_4">
+<w pos="prp">me</w>
+</coref>
+<w pos="to">to</w>
+<w pos="vb">insist</w>
+<w pos="in">upon</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="vbg">marrying</w>
+<coref set-id="set_1">
+<w pos="prp">him</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="&quot;">"</w>
+<coref set-id="set_1">
+<coref set-id="set_8">
+<w pos="prp$">My</w>
+</coref>
+<w pos="nn">dear</w>
+</coref>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<w pos="vbd">replied</w>
+<coref set-id="set_1">
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">husband</w>
+</coref>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">have</w>
+<w pos="cd">two</w>
+<w pos="jj">small</w>
+<w pos="nns">favours</w>
+<w pos="to">to</w>
+<w pos="vb">request</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="rb">First</w>
+<w pos=",">,</w>
+<w pos="in">that</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="md">will</w>
+<w pos="vb">allow</w>
+<coref set-id="set_4">
+<w pos="prp">me</w>
+</coref>
+<w pos="dt">the</w>
+<w pos="jj">free</w>
+<w pos="nn">use</w>
+<w pos="in">of</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="nn">understanding</w>
+<w pos="in">on</w>
+<w pos="dt">the</w>
+<w pos="jj">present</w>
+<w pos="nn">occasion</w>
+<w pos=":">;</w>
+<w pos="cc">and</w>
+<w pos="rb">secondly</w>
+<w pos=",">,</w>
+<w pos="in">of</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="nn">room</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="md">shall</w>
+<w pos="vb">be</w>
+<w pos="jj">glad</w>
+<w pos="to">to</w>
+<w pos="vb">have</w>
+<coref set-id="set_11">
+<w pos="dt">the</w>
+<w pos="nn">library</w>
+</coref>
+<w pos="to">to</w>
+<coref set-id="set_28">
+<w pos="prp">myself</w>
+</coref>
+<w pos="rb">as</w>
+<w pos="rb">soon</w>
+<w pos="in">as</w>
+<w pos="md">may</w>
+<w pos="vb">be</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="rb">Not</w>
+<w pos="rb">yet</w>
+<w pos=",">,</w>
+<w pos="rb">however</w>
+<w pos=",">,</w>
+<w pos="in">in</w>
+<w pos="nn">spite</w>
+<w pos="in">of</w>
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">disappointment</w>
+<w pos="in">in</w>
+<coref set-id="set_1">
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">husband</w>
+</coref>
+<w pos=",">,</w>
+<w pos="vbd">did</w>
+<coref set-id="set_1">
+<w pos="nnp">Mrs.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos="vb">give</w>
+<w pos="rp">up</w>
+<coref set-id="set_24">
+<w pos="dt">the</w>
+<w pos="nn">point</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="prp">She</w>
+</coref>
+<w pos="vbd">talked</w>
+<w pos="to">to</w>
+<coref set-id="set_1">
+<w pos="nnp">Elizabeth</w>
+</coref>
+<w pos="rb">again</w>
+<w pos="cc">and</w>
+<w pos="rb">again</w>
+<w pos=":">;</w>
+<w pos="vbd">coaxed</w>
+<w pos="cc">and</w>
+<w pos="vbd">threatened</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="in">by</w>
+<w pos="nns">turns</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="prp">She</w>
+</coref>
+<w pos="vbd">endeavoured</w>
+<w pos="to">to</w>
+<w pos="vb">secure</w>
+<coref set-id="set_1">
+<w pos="nns">Jane</w>
+</coref>
+<w pos="in">in</w>
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">interest</w>
+<w pos="cc">but</w>
+<coref set-id="set_1">
+<w pos="nns">Jane</w>
+</coref>
+<w pos="in">with</w>
+<w pos="dt">all</w>
+<w pos="jj">possible</w>
+<w pos="nn">mildness</w>
+<w pos="vbd">declined</w>
+<w pos="vbg">interfering</w>
+<coref set-id="set_1">
+<w pos="nnp">;&amp;#8212;and</w>
+<w pos="nnp">Elizabeth</w>
+</coref>
+<w pos=",">,</w>
+<w pos="rb">sometimes</w>
+<w pos="in">with</w>
+<w pos="jj">real</w>
+<w pos="nn">earnestness</w>
+<w pos="cc">and</w>
+<w pos="rb">sometimes</w>
+<w pos="in">with</w>
+<w pos="jj">playful</w>
+<w pos="nn">gaiety</w>
+<w pos=",">,</w>
+<w pos="vbd">replied</w>
+<w pos="to">to</w>
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nns">attacks</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="in">Though</w>
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">manner</w>
+<w pos="vbn">varied</w>
+<w pos=",">,</w>
+<w pos="rb">however</w>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">determination</w>
+<w pos="rb">never</w>
+<w pos="vbd">did</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos=",">,</w>
+<w pos="rb">meanwhile</w>
+<w pos=",">,</w>
+<w pos="vbd">was</w>
+<w pos="vbg">meditating</w>
+<w pos="in">in</w>
+<w pos="nn">solitude</w>
+<w pos="in">on</w>
+<w pos="wp">what</w>
+<w pos="vbd">had</w>
+<w pos="vbn">passed</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="prp">He</w>
+</coref>
+<w pos="vbd">thought</w>
+<w pos="rb">too</w>
+<w pos="rb">well</w>
+<w pos="in">of</w>
+<coref set-id="set_1">
+<w pos="prp">himself</w>
+</coref>
+<w pos="to">to</w>
+<w pos="vb">comprehend</w>
+<w pos="in">on</w>
+<w pos="wp">what</w>
+<w pos="nn">motive</w>
+<coref set-id="set_1">
+<coref set-id="set_1">
+<w pos="prp$">his</w>
+</coref>
+<w pos="nn">cousin</w>
+</coref>
+<w pos="md">could</w>
+<w pos="vb">refuse</w>
+<coref set-id="set_1">
+<w pos="prp">him</w>
+</coref>
+<w pos=":">;</w>
+<w pos="cc">and</w>
+<w pos="in">though</w>
+<coref set-id="set_1">
+<w pos="prp$">his</w>
+</coref>
+<w pos="nn">pride</w>
+<w pos="vbd">was</w>
+<w pos="vbn">hurt</w>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<w pos="prp">he</w>
+</coref>
+<w pos="vbd">suffered</w>
+<w pos="in">in</w>
+<w pos="dt">no</w>
+<w pos="jj">other</w>
+<w pos="nn">way</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="prp$">His</w>
+</coref>
+<w pos="nn">regard</w>
+<w pos="in">for</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="vbd">was</w>
+<w pos="rb">quite</w>
+<w pos="jj">imaginary</w>
+<w pos=":">;</w>
+<w pos="cc">and</w>
+<w pos="dt">the</w>
+<w pos="nn">possibility</w>
+<w pos="in">of</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="vbg">deserving</w>
+<coref set-id="set_1">
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">mother</w>
+</coref>
+<w pos="pos">'s</w>
+<w pos="nn">reproach</w>
+<w pos="vbd">prevented</w>
+<coref set-id="set_1">
+<w pos="prp$">his</w>
+</coref>
+<w pos="nn">feeling</w>
+<w pos="dt">any</w>
+<w pos="nn">regret</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="in">While</w>
+<w pos="dt">the</w>
+<w pos="nn">family</w>
+<w pos="vbd">were</w>
+<w pos="in">in</w>
+<w pos="dt">this</w>
+<w pos="nn">confusion</w>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<w pos="nnp">Charlotte</w>
+<w pos="nnp">Lucas</w>
+</coref>
+<w pos="vbd">came</w>
+<w pos="to">to</w>
+<w pos="vb">spend</w>
+<coref set-id="set_30">
+<w pos="dt">the</w>
+<w pos="nn">day</w>
+</coref>
+<w pos="in">with</w>
+<coref set-id="set_22">
+<w pos="prp">them</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="prp">She</w>
+</coref>
+<w pos="vbd">was</w>
+<w pos="vbn">met</w>
+<w pos="in">in</w>
+<w pos="dt">the</w>
+<w pos="nn">vestibule</w>
+<w pos="in">by</w>
+<coref set-id="set_1">
+<w pos="nnp">Lydia</w>
+</coref>
+<w pos=",">,</w>
+<w pos="wp">who</w>
+<w pos=",">,</w>
+<w pos="vbg">flying</w>
+<w pos="to">to</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos=",">,</w>
+<w pos="vbd">cried</w>
+<w pos="in">in</w>
+<w pos="dt">a</w>
+<w pos="jj">half</w>
+<w pos="nn">whisper</w>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">am</w>
+<w pos="jj">glad</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="vbp">are</w>
+<w pos="vbn">come</w>
+<w pos=",">,</w>
+<w pos="in">for</w>
+<coref set-id="set_33">
+<w pos="ex">there</w>
+</coref>
+<w pos="vbz">is</w>
+<w pos="jj">such</w>
+<w pos="nn">fun</w>
+<w pos="rb">here</w>
+<w pos=".">!</w>
+</s><s>
+<coref set-id="set_34">
+<w pos="cd">&amp;#8212;</w>
+</coref>
+<w pos="wp">What</w>
+<w pos="vbp">do</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="vb">think</w>
+<w pos="vbz">has</w>
+<w pos="vbn">happened</w>
+<w pos="dt">this</w>
+<w pos="nn">morning</w>
+<w pos=".">?</w>
+</s><s>
+<w pos="nnp">&amp;#8212;Mr.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="nnp">Collins</w>
+</coref>
+<w pos="vbz">has</w>
+<w pos="vbn">made</w>
+<coref set-id="set_18">
+<w pos="dt">an</w>
+<w pos="nn">offer</w>
+</coref>
+<w pos="to">to</w>
+<coref set-id="set_1">
+<w pos="nnp">Lizzy</w>
+</coref>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="md">will</w>
+<w pos="rb">not</w>
+<w pos="vb">have</w>
+<coref set-id="set_1">
+<w pos="prp">him</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_2">
+<w pos="nnp">Charlotte</w>
+</coref>
+<w pos="vbd">had</w>
+<w pos="rb">hardly</w>
+<coref set-id="set_3">
+<w pos="nn">time</w>
+</coref>
+<w pos="to">to</w>
+<w pos="vb">answer</w>
+<w pos=",">,</w>
+<w pos="in">before</w>
+<coref set-id="set_22">
+<w pos="prp">they</w>
+</coref>
+<w pos="vbd">were</w>
+<w pos="vbn">joined</w>
+<w pos="in">by</w>
+<coref set-id="set_1">
+<w pos="nnp">Kitty</w>
+</coref>
+<w pos=",">,</w>
+<w pos="wp">who</w>
+<w pos="vbd">came</w>
+<w pos="to">to</w>
+<w pos="vb">tell</w>
+<w pos="dt">the</w>
+<w pos="jj">same</w>
+<w pos="nn">news</w>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="dt">no</w>
+<w pos="rbr">sooner</w>
+<w pos="vbd">had</w>
+<coref set-id="set_22">
+<w pos="prp">they</w>
+</coref>
+<w pos="vbd">entered</w>
+<w pos="dt">the</w>
+<w pos="nn">breakfast-room</w>
+<w pos=",">,</w>
+<w pos="wrb">where</w>
+<coref set-id="set_1">
+<w pos="nnp">Mrs.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos="vbd">was</w>
+<w pos="rb">alone</w>
+<w pos=",">,</w>
+<w pos="in">than</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="rb">likewise</w>
+<w pos="vbd">began</w>
+<w pos="in">on</w>
+<w pos="dt">the</w>
+<w pos="nn">subject</w>
+<w pos=",">,</w>
+<w pos="vbg">calling</w>
+<w pos="in">on</w>
+<coref set-id="set_1">
+<w pos="nnp">Miss</w>
+<w pos="nnp">Lucas</w>
+</coref>
+<w pos="in">for</w>
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">compassion</w>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="vbg">entreating</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="to">to</w>
+<w pos="vb">persuade</w>
+<coref set-id="set_1">
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">friend</w>
+</coref>
+<coref set-id="set_1">
+<w pos="nnp">Lizzy</w>
+</coref>
+<w pos="to">to</w>
+<w pos="vb">comply</w>
+<w pos="in">with</w>
+<w pos="dt">the</w>
+<w pos="nns">wishes</w>
+<w pos="in">of</w>
+<coref set-id="set_15">
+<w pos="pdt">all</w>
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">family</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="nnp">Pray</w>
+<w pos="vbp">do</w>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="jj">dear</w>
+<w pos="nnp">Miss</w>
+<w pos="nnp">Lucas</w>
+</coref>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbd">added</w>
+<w pos="in">in</w>
+<w pos="dt">a</w>
+<w pos="jj">melancholy</w>
+<w pos="nn">tone</w>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<w pos="in">for</w>
+<coref set-id="set_1">
+<w pos="nn">nobody</w>
+</coref>
+<w pos="vbz">is</w>
+<w pos="in">on</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="nn">side</w>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<w pos="nn">nobody</w>
+</coref>
+<w pos="vbz">takes</w>
+<w pos="nn">part</w>
+<w pos="in">with</w>
+<coref set-id="set_4">
+<w pos="prp">me</w>
+</coref>
+<w pos=",">,</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">am</w>
+<w pos="rb">cruelly</w>
+<w pos="jj">used</w>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<w pos="nn">nobody</w>
+</coref>
+<w pos="vbz">feels</w>
+<w pos="in">for</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="jj">poor</w>
+<w pos="nns">nerves</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_2">
+<w pos="nnp">Charlotte</w>
+</coref>
+<w pos="pos">'s</w>
+<w pos="nn">reply</w>
+<w pos="vbd">was</w>
+<w pos="vbn">spared</w>
+<w pos="in">by</w>
+<w pos="dt">the</w>
+<w pos="nn">entrance</w>
+<w pos="in">of</w>
+<coref set-id="set_1">
+<coref set-id="set_1">
+<w pos="nnp">Jane</w>
+</coref>
+<w pos="cc">and</w>
+<coref set-id="set_1">
+<w pos="nnp">Elizabeth</w>
+</coref>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<w pos="nnp">Aye</w>
+<w pos=",">,</w>
+<coref set-id="set_33">
+<w pos="ex">there</w>
+</coref>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbz">comes</w>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<w pos="vbn">continued</w>
+<coref set-id="set_1">
+<w pos="nnp">Mrs.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos=",">,</w>
+<w pos="vbg">"looking</w>
+<w pos="rb">as</w>
+<w pos="jj">unconcerned</w>
+<w pos="in">as</w>
+<w pos="md">may</w>
+<w pos="vb">be</w>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="vbg">caring</w>
+<w pos="rb">no</w>
+<w pos="jjr">more</w>
+<w pos="in">for</w>
+<coref set-id="set_22">
+<w pos="prp">us</w>
+</coref>
+<w pos="in">than</w>
+<w pos="in">if</w>
+<coref set-id="set_22">
+<w pos="prp">we</w>
+</coref>
+<w pos="vbd">were</w>
+<w pos="in">at</w>
+<w pos="nnp">York</w>
+<w pos=",">,</w>
+<w pos="vbn">provided</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="md">can</w>
+<w pos="vb">have</w>
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="jj">own</w>
+<w pos="nn">way</w>
+<w pos="nn">.&amp;#8212;But</w>
+</s><s>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">tell</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="wp">what</w>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<w pos="nnp">Miss</w>
+<w pos="nnp">Lizzy</w>
+</coref>
+<w pos=",">,</w>
+<w pos="in">if</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="vbp">take</w>
+<coref set-id="set_1">
+<w pos="prp">it</w>
+</coref>
+<w pos="in">into</w>
+<coref set-id="set_0">
+<w pos="prp$">your</w>
+</coref>
+<w pos="nn">head</w>
+<w pos="to">to</w>
+<w pos="vb">go</w>
+<w pos="in">on</w>
+<w pos="vbg">refusing</w>
+<coref set-id="set_18">
+<w pos="dt">every</w>
+<w pos="nn">offer</w>
+</coref>
+<w pos="in">of</w>
+<coref set-id="set_21">
+<w pos="nn">marriage</w>
+</coref>
+<w pos="in">in</w>
+<coref set-id="set_26">
+<w pos="dt">this</w>
+<w pos="nn">way</w>
+</coref>
+<w pos=",">,</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="md">will</w>
+<w pos="rb">never</w>
+<w pos="vb">get</w>
+<coref set-id="set_1">
+<w pos="dt">a</w>
+<w pos="nn">husband</w>
+</coref>
+<w pos="in">at</w>
+<w pos="nn">all&amp;#8212;and</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">am</w>
+<w pos="jj">sure</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">do</w>
+<w pos="rb">not</w>
+<w pos="vb">know</w>
+<w pos="wp">who</w>
+<w pos="vbz">is</w>
+<w pos="to">to</w>
+<w pos="vb">maintain</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="wrb">when</w>
+<coref set-id="set_1">
+<coref set-id="set_0">
+<w pos="prp$">your</w>
+</coref>
+<w pos="nn">father</w>
+</coref>
+<w pos="vbz">is</w>
+<w pos="jj">dead</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_34">
+<w pos="cd">&amp;#8212;</w>
+</coref>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="md">shall</w>
+<w pos="rb">not</w>
+<w pos="vb">be</w>
+<w pos="jj">able</w>
+<w pos="to">to</w>
+<w pos="vb">keep</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="jj">&amp;#8212;and</w>
+<w pos="in">so</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">warn</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="cd">.&amp;#8212;</w>
+</s><s>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">have</w>
+<w pos="vbn">done</w>
+<w pos="in">with</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="in">from</w>
+<w pos="dt">this</w>
+<w pos="jj">very</w>
+<w pos="nn">day</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_34">
+<w pos="cd">&amp;#8212;</w>
+</coref>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbd">told</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="in">in</w>
+<coref set-id="set_11">
+<w pos="dt">the</w>
+<w pos="nn">library</w>
+</coref>
+<w pos=",">,</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="vbp">know</w>
+<w pos=",">,</w>
+<w pos="in">that</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="md">should</w>
+<w pos="rb">never</w>
+<w pos="vb">speak</w>
+<w pos="to">to</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="rb">again</w>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="md">will</w>
+<w pos="vb">find</w>
+<coref set-id="set_4">
+<w pos="prp">me</w>
+</coref>
+<w pos="rb">as</w>
+<w pos="jj">good</w>
+<w pos="in">as</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="nn">word</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">have</w>
+<coref set-id="set_9">
+<w pos="dt">no</w>
+<w pos="nn">pleasure</w>
+</coref>
+<w pos="in">in</w>
+<w pos="vbg">talking</w>
+<w pos="to">to</w>
+<w pos="nn">undutiful</w>
+<w pos="nns">children</w>
+<w pos=",">,</w>
+<w pos="nns">&amp;#8212;Not</w>
+<w pos="in">that</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">have</w>
+<w pos="jj">much</w>
+<w pos="nn">pleasure</w>
+<w pos="rb">indeed</w>
+<w pos="in">in</w>
+<w pos="vbg">talking</w>
+<w pos="to">to</w>
+<w pos="dt">any</w>
+<w pos="nn">body</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="nns">People</w>
+<w pos="wp">who</w>
+<w pos="vbp">suffer</w>
+<w pos="in">as</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">do</w>
+<w pos="in">from</w>
+<w pos="jj">nervous</w>
+<w pos="nns">complaints</w>
+<w pos="md">can</w>
+<w pos="vb">have</w>
+<w pos="dt">no</w>
+<w pos="jj">great</w>
+<w pos="nn">inclination</w>
+<w pos="in">for</w>
+<w pos="vbg">talking</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="nn">Nobody</w>
+</coref>
+<w pos="md">can</w>
+<w pos="vb">tell</w>
+<w pos="wp">what</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">suffer</w>
+<w pos=".">!</w>
+</s><s>
+<w pos="nn">&amp;#8212;But</w>
+<coref set-id="set_1">
+<w pos="prp">it</w>
+</coref>
+<w pos="vbz">is</w>
+<w pos="rb">always</w>
+<w pos="rb">so</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="dt">Those</w>
+<w pos="wp">who</w>
+<w pos="vbp">do</w>
+<w pos="rb">not</w>
+<w pos="vb">complain</w>
+<w pos="vbp">are</w>
+<w pos="rb">never</w>
+<w pos="vbn">pitied</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_10">
+<coref set-id="set_1">
+<w pos="prp$">Her</w>
+</coref>
+<w pos="nns">daughters</w>
+</coref>
+<w pos="vbd">listened</w>
+<w pos="in">in</w>
+<w pos="nn">silence</w>
+<w pos="to">to</w>
+<w pos="dt">this</w>
+<w pos="nn">effusion</w>
+<w pos=",">,</w>
+<w pos="nn">sensible</w>
+<w pos="in">that</w>
+<w pos="dt">any</w>
+<w pos="nn">attempt</w>
+<w pos="to">to</w>
+<w pos="vb">reason</w>
+<w pos="in">with</w>
+<w pos="cc">or</w>
+<w pos="vb">sooth</w>
+<coref set-id="set_1">
+<w pos="prp">her</w>
+</coref>
+<w pos="md">would</w>
+<w pos="rb">only</w>
+<w pos="vb">increase</w>
+<w pos="dt">the</w>
+<w pos="nn">irritation</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="prp">She</w>
+</coref>
+<w pos="vbd">talked</w>
+<w pos="rp">on</w>
+<w pos=",">,</w>
+<w pos="rb">therefore</w>
+<w pos=",">,</w>
+<w pos="in">without</w>
+<w pos="nn">interruption</w>
+<w pos="in">from</w>
+<w pos="dt">any</w>
+<w pos="in">of</w>
+<coref set-id="set_22">
+<w pos="prp">them</w>
+</coref>
+<w pos="in">till</w>
+<coref set-id="set_22">
+<w pos="prp">they</w>
+</coref>
+<w pos="vbd">were</w>
+<w pos="vbn">joined</w>
+<w pos="in">by</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos=",">,</w>
+<w pos="wp">who</w>
+<w pos="vbd">entered</w>
+<w pos="in">with</w>
+<w pos="dt">an</w>
+<w pos="nn">air</w>
+<w pos="rbr">more</w>
+<w pos="jj">stately</w>
+<w pos="in">than</w>
+<w pos="jj">usual</w>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="in">on</w>
+<w pos="vbg">perceiving</w>
+<w pos="wp">whom</w>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="vbd">said</w>
+<w pos="to">to</w>
+<coref set-id="set_10">
+<w pos="dt">the</w>
+<w pos="nns">girls</w>
+</coref>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<w pos="rb">Now</w>
+<w pos=",">,</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">do</w>
+<w pos="vb">insist</w>
+<w pos="in">upon</w>
+<coref set-id="set_1">
+<w pos="prp">it</w>
+</coref>
+<w pos=",">,</w>
+<w pos="in">that</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos=",">,</w>
+<coref set-id="set_5">
+<w pos="dt">all</w>
+</coref>
+<w pos="in">of</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos=",">,</w>
+<w pos="vbp">hold</w>
+<coref set-id="set_0">
+<w pos="prp$">your</w>
+</coref>
+<w pos="nns">tongues</w>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="vb">let</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos="cc">and</w>
+<coref set-id="set_4">
+<w pos="prp">me</w>
+</coref>
+<w pos="vb">have</w>
+<w pos="dt">a</w>
+<w pos="jj">little</w>
+<w pos="nn">conversation</w>
+<w pos="rb">together</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_1">
+<w pos="nnp">Elizabeth</w>
+</coref>
+<w pos="vbd">passed</w>
+<w pos="rb">quietly</w>
+<w pos="in">out</w>
+<w pos="in">of</w>
+<w pos="dt">the</w>
+<w pos="nn">room</w>
+<w pos=",">,</w>
+<coref set-id="set_1">
+<coref set-id="set_1">
+<w pos="nnp">Jane</w>
+</coref>
+<w pos="cc">and</w>
+<coref set-id="set_1">
+<w pos="nnp">Kitty</w>
+</coref>
+</coref>
+<w pos="vbd">followed</w>
+<w pos=",">,</w>
+<w pos="cc">but</w>
+<coref set-id="set_1">
+<w pos="rb">Lydia</w>
+</coref>
+<w pos="vbd">stood</w>
+<coref set-id="set_1">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">ground</w>
+<w pos=",">,</w>
+<w pos="vbn">determined</w>
+<w pos="to">to</w>
+<w pos="vb">hear</w>
+<coref set-id="set_5">
+<w pos="dt">all</w>
+</coref>
+<coref set-id="set_1">
+<w pos="prp">she</w>
+</coref>
+<w pos="md">could</w>
+<w pos=":">;</w>
+<w pos="cc">and</w>
+<coref set-id="set_2">
+<w pos="nnp">Charlotte</w>
+</coref>
+<w pos=",">,</w>
+<w pos="vbn">detained</w>
+<w pos="rb">first</w>
+<w pos="in">by</w>
+<w pos="dt">the</w>
+<w pos="nn">civility</w>
+<w pos="in">of</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos=",">,</w>
+<w pos="wp$">whose</w>
+<w pos="nns">inquiries</w>
+<w pos="in">after</w>
+<coref set-id="set_2">
+<w pos="prp">herself</w>
+</coref>
+<w pos="cc">and</w>
+<coref set-id="set_15">
+<w pos="pdt">all</w>
+<coref set-id="set_2">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">family</w>
+</coref>
+<w pos="vbd">were</w>
+<w pos="rb">very</w>
+<w pos="jj">minute</w>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="rb">then</w>
+<w pos="in">by</w>
+<w pos="dt">a</w>
+<w pos="jj">little</w>
+<w pos="nn">curiosity</w>
+<w pos=",">,</w>
+<w pos="vbd">satisfied</w>
+<coref set-id="set_2">
+<w pos="prp">herself</w>
+</coref>
+<w pos="in">with</w>
+<w pos="vbg">walking</w>
+<w pos="to">to</w>
+<w pos="dt">the</w>
+<w pos="nn">window</w>
+<w pos="cc">and</w>
+<w pos="vbg">pretending</w>
+<w pos="rb">not</w>
+<w pos="to">to</w>
+<w pos="vb">hear</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="in">In</w>
+<w pos="dt">a</w>
+<w pos="jj">doleful</w>
+<w pos="nn">voice</w>
+<coref set-id="set_2">
+<w pos="nnp">Mrs.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos="rb">thus</w>
+<w pos="vbd">began</w>
+<w pos="dt">the</w>
+<w pos="vbn">projected</w>
+<w pos="nn">conversation</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_35">
+<w pos="cd">&amp;#8212</w>
+</coref>
+<w pos="vbg">;"</w>
+<w pos="uh">Oh</w>
+<w pos=".">!</w>
+</s><s>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Collins</w>
+</coref>
+<w pos=".">!</w>
+</s><s>
+<w pos="&quot;">"</w>
+<coref set-id="set_35">
+<w pos="cd">&amp;#8212</w>
+</coref>
+<w pos=":">;</w>
+<w pos="&quot;">"</w>
+<coref set-id="set_16">
+<coref set-id="set_8">
+<w pos="prp$">My</w>
+</coref>
+<w pos="nnp">dear</w>
+<w pos="nnp">Madam</w>
+</coref>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<w pos="vbd">replied</w>
+<coref set-id="set_16">
+<w pos="prp">he</w>
+</coref>
+<w pos=",">,</w>
+<w pos="vbp">"let</w>
+<coref set-id="set_22">
+<w pos="prp">us</w>
+</coref>
+<w pos="vb">be</w>
+<w pos="in">for</w>
+<w pos="rb">ever</w>
+<w pos="jj">silent</w>
+<w pos="in">on</w>
+<coref set-id="set_24">
+<w pos="dt">this</w>
+<w pos="nn">point</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<w pos="nnp">Far</w>
+<w pos="vb">be</w>
+<coref set-id="set_1">
+<w pos="prp">it</w>
+</coref>
+<w pos="in">from</w>
+<coref set-id="set_4">
+<w pos="prp">me</w>
+</coref>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<coref set-id="set_16">
+<w pos="prp">he</w>
+</coref>
+<w pos="rb">presently</w>
+<w pos="vbd">continued</w>
+<w pos=",">,</w>
+<w pos="in">in</w>
+<w pos="dt">a</w>
+<w pos="nn">voice</w>
+<w pos="wdt">that</w>
+<w pos="vbd">marked</w>
+<coref set-id="set_16">
+<w pos="prp$">his</w>
+</coref>
+<w pos="nn">displeasure</w>
+<w pos=",">,</w>
+<w pos="&quot;">"</w>
+<w pos="to">to</w>
+<w pos="vb">resent</w>
+<w pos="dt">the</w>
+<w pos="nn">behaviour</w>
+<w pos="in">of</w>
+<coref set-id="set_16">
+<coref set-id="set_0">
+<w pos="prp$">your</w>
+</coref>
+<w pos="nn">daughter</w>
+</coref>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_29">
+<w pos="nn">Resignation</w>
+</coref>
+<w pos="to">to</w>
+<w pos="jj">inevitable</w>
+<w pos="nns">evils</w>
+<w pos="vbz">is</w>
+<w pos="dt">the</w>
+<w pos="nn">duty</w>
+<w pos="in">of</w>
+<w pos="prp">us</w>
+<w pos="dt">all</w>
+<w pos=":">;</w>
+<w pos="dt">the</w>
+<w pos="jj">peculiar</w>
+<w pos="nn">duty</w>
+<w pos="in">of</w>
+<coref set-id="set_16">
+<w pos="dt">a</w>
+<w pos="jj">young</w>
+<w pos="nn">man</w>
+</coref>
+<w pos="wp">who</w>
+<w pos="vbz">has</w>
+<w pos="vbn">been</w>
+<w pos="rb">so</w>
+<w pos="jj">fortunate</w>
+<w pos="in">as</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">have</w>
+<w pos="vbn">been</w>
+<w pos="in">in</w>
+<w pos="jj">early</w>
+<w pos="nn">preferment</w>
+<w pos=":">;</w>
+<w pos="cc">and</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">trust</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">am</w>
+<w pos="vbn">resigned</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="rb">Perhaps</w>
+<w pos="rb">not</w>
+<w pos="dt">the</w>
+<w pos="jjr">less</w>
+<w pos="rb">so</w>
+<w pos="in">from</w>
+<w pos="nn">feeling</w>
+<w pos="dt">a</w>
+<w pos="nn">doubt</w>
+<w pos="in">of</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="jj">positive</w>
+<w pos="nn">happiness</w>
+<w pos="vbd">had</w>
+<coref set-id="set_13">
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="jj">fair</w>
+<w pos="nn">cousin</w>
+</coref>
+<w pos="vbd">honoured</w>
+<coref set-id="set_4">
+<w pos="prp">me</w>
+</coref>
+<w pos="in">with</w>
+<coref set-id="set_13">
+<w pos="prp$">her</w>
+</coref>
+<w pos="nn">hand</w>
+<w pos=":">;</w>
+<w pos="in">for</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">have</w>
+<w pos="rb">often</w>
+<w pos="vbd">observed</w>
+<w pos="dt">that</w>
+<coref set-id="set_29">
+<w pos="nn">resignation</w>
+</coref>
+<w pos="vbz">is</w>
+<w pos="rb">never</w>
+<w pos="rb">so</w>
+<w pos="jj">perfect</w>
+<w pos="in">as</w>
+<w pos="wrb">when</w>
+<w pos="dt">the</w>
+<w pos="nn">blessing</w>
+<w pos="vbd">denied</w>
+<w pos="vbz">begins</w>
+<w pos="to">to</w>
+<w pos="vb">lose</w>
+<w pos="rb">somewhat</w>
+<w pos="in">of</w>
+<w pos="prp$">its</w>
+<w pos="nn">value</w>
+<w pos="in">in</w>
+<w pos="prp$">our</w>
+<w pos="nn">estimation</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_0">
+<w pos="prp">You</w>
+</coref>
+<w pos="md">will</w>
+<w pos="rb">not</w>
+<w pos=",">,</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">hope</w>
+<w pos=",">,</w>
+<w pos="vb">consider</w>
+<coref set-id="set_4">
+<w pos="prp">me</w>
+</coref>
+<w pos="in">as</w>
+<w pos="vbg">shewing</w>
+<w pos="dt">any</w>
+<w pos="nn">disrespect</w>
+<w pos="to">to</w>
+<coref set-id="set_0">
+<w pos="prp$">your</w>
+</coref>
+<w pos="nn">family</w>
+<w pos=",">,</w>
+<coref set-id="set_13">
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="jj">dear</w>
+<w pos="nn">Madam</w>
+</coref>
+<w pos=",">,</w>
+<w pos="in">by</w>
+<w pos="rb">thus</w>
+<w pos="vbg">withdrawing</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="nns">pretensions</w>
+<w pos="to">to</w>
+<coref set-id="set_13">
+<coref set-id="set_0">
+<w pos="prp$">your</w>
+</coref>
+<w pos="nn">daughter</w>
+</coref>
+<w pos="pos">'s</w>
+<w pos="nn">favour</w>
+<w pos=",">,</w>
+<w pos="in">without</w>
+<w pos="vbg">having</w>
+<w pos="vbn">paid</w>
+<coref set-id="set_32">
+<w pos="prp">yourself</w>
+</coref>
+<w pos="cc">and</w>
+<coref set-id="set_1">
+<w pos="nnp">Mr.</w>
+<w pos="nnp">Bennet</w>
+</coref>
+<w pos="dt">the</w>
+<w pos="nn">compliment</w>
+<w pos="in">of</w>
+<w pos="vbg">requesting</w>
+<coref set-id="set_0">
+<w pos="prp">you</w>
+</coref>
+<w pos="to">to</w>
+<w pos="vb">interpose</w>
+<coref set-id="set_0">
+<w pos="prp$">your</w>
+</coref>
+<w pos="nn">authority</w>
+<w pos="in">in</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="nn">behalf</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_8">
+<w pos="prp$">My</w>
+</coref>
+<w pos="nn">conduct</w>
+<w pos="md">may</w>
+<w pos=",">,</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">fear</w>
+<w pos=",">,</w>
+<w pos="vb">be</w>
+<w pos="jj">objectionable</w>
+<w pos="in">in</w>
+<w pos="vbg">having</w>
+<w pos="vbn">accepted</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="nn">dismission</w>
+<w pos="in">from</w>
+<coref set-id="set_13">
+<coref set-id="set_0">
+<w pos="prp$">your</w>
+</coref>
+<w pos="nn">daughter</w>
+</coref>
+<w pos="pos">'s</w>
+<w pos="nns">lips</w>
+<w pos="rb">instead</w>
+<w pos="in">of</w>
+<coref set-id="set_0">
+<w pos="prp$">your</w>
+</coref>
+<w pos="jj">own</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="cc">But</w>
+<coref set-id="set_22">
+<w pos="prp">we</w>
+</coref>
+<w pos="vbp">are</w>
+<w pos="dt">all</w>
+<w pos="jj">liable</w>
+<w pos="to">to</w>
+<w pos="nn">error</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="vbp">have</w>
+<w pos="rb">certainly</w>
+<w pos="vbn">meant</w>
+<w pos="rb">well</w>
+<w pos="in">through</w>
+<w pos="dt">the</w>
+<w pos="jj">whole</w>
+<w pos="nn">affair</w>
+<w pos=".">.</w>
+</s><s>
+<coref set-id="set_8">
+<w pos="prp$">My</w>
+</coref>
+<w pos="nn">object</w>
+<w pos="vbz">has</w>
+<w pos="vbn">been</w>
+<w pos="to">to</w>
+<w pos="vb">secure</w>
+<w pos="dt">an</w>
+<w pos="jj">amiable</w>
+<w pos="nn">companion</w>
+<w pos="in">for</w>
+<coref set-id="set_28">
+<w pos="prp">myself</w>
+</coref>
+<w pos=",">,</w>
+<w pos="in">with</w>
+<w pos="jj">due</w>
+<w pos="nn">consideration</w>
+<w pos="in">for</w>
+<w pos="dt">the</w>
+<w pos="nn">advantage</w>
+<w pos="in">of</w>
+<w pos="pdt">all</w>
+<coref set-id="set_0">
+<w pos="prp$">your</w>
+</coref>
+<w pos="nn">family</w>
+<w pos=",">,</w>
+<w pos="cc">and</w>
+<w pos="in">if</w>
+<coref set-id="set_8">
+<w pos="prp$">my</w>
+</coref>
+<w pos="nn">manner</w>
+<w pos="vbz">has</w>
+<w pos="vbn">been</w>
+<w pos="in">at</w>
+<w pos="dt">all</w>
+<w pos="jj">reprehensible</w>
+<w pos=",">,</w>
+<coref set-id="set_4">
+<w pos="prp">I</w>
+</coref>
+<w pos="rb">here</w>
+<w pos="vbp">beg</w>
+<w pos="nn">leave</w>
+<w pos="to">to</w>
+<w pos="vb">apologise</w>
+<w pos=".">.</w>
+</s><s>
+<w pos="x">"</w>
+</s>
+</text>
