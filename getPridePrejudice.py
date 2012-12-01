@@ -1,7 +1,7 @@
 '''
 Pulls the knights and knaves puzzles from http://philosophy.hku.hk/think/logic/knight.php
 
-Created on Nov 15, 2012
+Created on Nov 26, 2012
 
 @author: Toshi
 '''
