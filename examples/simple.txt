@@ -1,7 +1,7 @@
 John X. Smith has three brothers and a sister. John's brothers are 
 named Joseph, Jake, and James. Jane is John's sister. Anne Smith is John's mother, 
 and John's dad's name is Pete. John has three aunts, all on Pete's side, named
-Hannah, Anna, and Savannah. Savannah is married to a guy named Ken Torse. Savannah and Ken
-have one son named Robert. John's grandfather on his mother's side is also named Robert, 
-also known as Bob. Bob doesn't have any kids besides John's mom, because 
-Anne's mother Sue died during childbirth.
+Hannah, Anna, and Savannah. Savannah is married to a guy named Ken Torse. Robert, 
+Savannah and Ken's only son, just turned twelve. John's grandfather on his mother's 
+side is also named Robert, also known as Bob. Bob doesn't have any kids besides 
+John's mom, because Anne's mother Sue died during childbirth.

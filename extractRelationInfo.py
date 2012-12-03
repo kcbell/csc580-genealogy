@@ -13,7 +13,7 @@ from xml.parsers import expat
 #from nltk.chunk import RegexpParser
 
 
-Queries = ["daughter","son","cousin","wife","married","marrige","birth","born","father","mother","brother","syster","child","children","parent","sibling","aunt","uncle"]
+Queries = ["daughter","son","cousin","wife","married","marriage","birth","born","father","mother","brother","sister","child","children","parent","sibling","aunt","uncle"]
 
 
 
@@ -125,7 +125,6 @@ def openFile(f):
 def main():
     filename = "vol1ch02.xml"
     files = [f for f in os.listdir('./data/xml/')]
-    #files = [filename]
     for filename in files:
         corefDict, text = extractRelationInfo("./data/xml/" + filename)
         print filename
