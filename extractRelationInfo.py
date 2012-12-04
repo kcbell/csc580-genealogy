@@ -13,12 +13,13 @@ from xml.parsers import expat
 #from nltk.chunk import RegexpParser
 
 
-Queries = ["daughter","son","cousin","wife","married","marriage","birth","born","father","mother","brother","sister","child","children","parent","sibling","aunt","uncle"]
+Queries = ["nephew","niece","relative","daughter","son","cousin","wife","married","marriage","birth","born","father","mother","brother","sister","child","children","parent","sibling","aunt","uncle"]
 
 
 
 def extractRelationInfo(filename):
     corefDict = {}
+    tups = []
     texts = []
     from xml.dom import minidom
     xmldoc = minidom.parse(filename)
@@ -27,12 +28,15 @@ def extractRelationInfo(filename):
     for s in itemlist:
         wordlist = toTuple(s.childNodes,corefDict)
         text = allToText(wordlist)
-        val = isRelationship(text)
-        if val:
-            texts.append(wordlist)
+        texts.append(text)
+        #print text
+        tups.append(wordlist)
+        #val = isRelationship(text)
+        #if val:
+        #    tups.append(wordlist)
         #texts.append(text)
         #print val,text
-    return corefDict, texts
+    return corefDict, texts, tups
 
 def getText(nodelist):
     rc = []
@@ -57,7 +61,10 @@ def solveCoref(corefDict, node):
          if pos == "prp$":
              name += "'s"
     else:
-        corefDict[setid] = name
+        if name == "the 44th and current President":
+            corefDict[setid] = "Barack Obama"
+        else:
+            corefDict[setid] = name
     return name, pos, corefDict
 
 def allToText(wordlist):
@@ -123,12 +130,14 @@ def openFile(f):
     return puz
            
 def main():
-    filename = "vol1ch02.xml"
-    files = [f for f in os.listdir('./data/xml/')]
+    filename = "Barack_Obama1.xml"
+    files = [f for f in os.listdir('.')]
+    files = [filename]
     for filename in files:
-        corefDict, text = extractRelationInfo("./data/xml/" + filename)
+        corefDict, texts, tups = extractRelationInfo(filename)
         print filename
-        print text
+        print texts
+        print tups
         print corefDict
 
 if __name__ == '__main__':
