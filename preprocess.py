@@ -46,7 +46,7 @@ def chunkText(text):
     return chunks
 
 def clean(text):
-    replaceList = [("&quot;",'"'),('&amp;','and'),("&ndash;","-"),("&mdash;","-"),("II","2nd"),("III","3rd")]
+    replaceList = [("Sr.","Sr"),("&quot;",'"'),('&amp;','and'),("&ndash;","-"),("&mdash;","-"),("II","2nd"),("III","3rd")]
     eTag = '   == Notes =='
     text = text[:text.find(eTag)]
     text = unicode(text,errors='ignore')

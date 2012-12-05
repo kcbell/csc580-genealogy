@@ -10,7 +10,7 @@
 <w pos="nn">obm/</w>
 <w pos=":">;</w>
 <w pos="vbn">born</w>
-<coref set-id="set_113">
+<coref set-id="set_90">
 <w pos="nnp">August</w>
 <w pos="cd">4</w>
 <w pos=",">,</w>
@@ -18,7 +18,7 @@
 </coref>
 <w pos="-rrb-">)</w>
 <w pos="vbz">is</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">the</w>
 <w pos="jj">44th</w>
 <w pos="cc">and</w>
@@ -27,13 +27,13 @@
 </coref>
 <w pos="in">of</w>
 <w pos="dt">the</w>
-<coref set-id="set_16">
+<coref set-id="set_27">
 <w pos="nnp">United</w>
 <w pos="nnps">States</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbz">is</w>
@@ -43,116 +43,116 @@
 <w pos="nnp">American</w>
 <w pos="to">to</w>
 <w pos="vb">hold</w>
-<coref set-id="set_60">
+<coref set-id="set_73">
 <w pos="dt">the</w>
 <w pos="nn">office</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Born</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_10">
-<coref set-id="set_40">
+<coref set-id="set_2">
+<coref set-id="set_95">
 <w pos="nnp">Honolulu</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_46">
+<coref set-id="set_61">
 <w pos="nnp">Hawaii</w>
 </coref>
 <w pos=",">,</w>
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbz">is</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">a</w>
 <w pos="nn">graduate</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_19">
+<coref set-id="set_114">
 <w pos="nnp">Columbia</w>
 <w pos="nnp">University</w>
 </coref>
 <w pos="cc">and</w>
-<coref set-id="set_43">
+<coref set-id="set_22">
 <w pos="nnp">Harvard</w>
 <w pos="nnp">Law</w>
 <w pos="nnp">School</w>
 </coref>
 <w pos=",">,</w>
 <w pos="wrb">where</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">was</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nn">president</w>
 </coref>
 <w pos="in">of</w>
 <w pos="dt">the</w>
-<coref set-id="set_24">
+<coref set-id="set_37">
 <w pos="nnp">Harvard</w>
 <w pos="nnp">Law</w>
 <w pos="nnp">Review</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">was</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">a</w>
-<coref set-id="set_63">
+<coref set-id="set_57">
 <w pos="nn">community</w>
 </coref>
 <w pos="nn">organizer</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos="in">before</w>
 <w pos="vbg">earning</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
-<coref set-id="set_53">
+<coref set-id="set_34">
 <w pos="nn">law</w>
 </coref>
 <w pos="nn">degree</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">worked</w>
 <w pos="in">as</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">a</w>
 <w pos="jj">civil</w>
-<coref set-id="set_7">
+<coref set-id="set_0">
 <w pos="nns">rights</w>
 </coref>
 <w pos="nn">attorney</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos="cc">and</w>
 <w pos="vbd">taught</w>
-<coref set-id="set_102">
+<coref set-id="set_80">
 <w pos="jj">constitutional</w>
 <w pos="nn">law</w>
 </coref>
 <w pos="in">at</w>
 <w pos="dt">the</w>
-<coref set-id="set_100">
+<coref set-id="set_30">
 <w pos="nnp">University</w>
 <w pos="in">of</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos="nnp">Law</w>
@@ -164,7 +164,7 @@
 <w pos="cd">2004</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">served</w>
@@ -176,14 +176,14 @@
 <w pos="nnp">District</w>
 <w pos="in">in</w>
 <w pos="dt">the</w>
-<coref set-id="set_68">
+<coref set-id="set_8">
 <w pos="nnp">Illinois</w>
 <w pos="nnp">Senate</w>
 </coref>
 <w pos="in">from</w>
 <w pos="cd">1997</w>
 <w pos="to">to</w>
-<coref set-id="set_72">
+<coref set-id="set_89">
 <w pos="cd">2004</w>
 </coref>
 <w pos=",">,</w>
@@ -191,58 +191,58 @@
 <w pos="rb">unsuccessfully</w>
 <w pos="in">for</w>
 <w pos="dt">the</w>
-<coref set-id="set_42">
-<coref set-id="set_71">
-<coref set-id="set_16">
+<coref set-id="set_113">
+<coref set-id="set_48">
+<coref set-id="set_27">
 <w pos="nnp">United</w>
 <w pos="nnp">States</w>
 </coref>
-<coref set-id="set_26">
+<coref set-id="set_29">
 <w pos="nnp">House</w>
 </coref>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_9">
+<coref set-id="set_100">
 <w pos="nnps">Representatives</w>
 </coref>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_38">
+<coref set-id="set_66">
 <w pos="cd">2000</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
 <w pos="in">In</w>
-<coref set-id="set_72">
+<coref set-id="set_89">
 <w pos="cd">2004</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">received</w>
 <w pos="jj">national</w>
 <w pos="nn">attention</w>
 <w pos="in">during</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">campaign</w>
 <w pos="to">to</w>
 <w pos="vb">represent</w>
-<coref set-id="set_44">
+<coref set-id="set_31">
 <w pos="nnp">Illinois</w>
 </coref>
 <w pos="in">in</w>
 <w pos="dt">the</w>
-<coref set-id="set_16">
+<coref set-id="set_27">
 <w pos="nnp">United</w>
 <w pos="nnp">States</w>
 </coref>
 <w pos="nnp">Senate</w>
 <w pos="in">with</w>
-<coref set-id="set_49">
-<coref set-id="set_10">
+<coref set-id="set_102">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">victory</w>
@@ -250,13 +250,13 @@
 <w pos="in">in</w>
 <w pos="dt">the</w>
 <w pos="nnp">March</w>
-<coref set-id="set_94">
+<coref set-id="set_32">
 <w pos="nnp">Democratic</w>
 <w pos="nnp">Party</w>
 </coref>
 <w pos="nn">primary</w>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">keynote</w>
@@ -270,56 +270,56 @@
 <w pos="nnp">July</w>
 <w pos=",">,</w>
 <w pos="cc">and</w>
-<coref set-id="set_92">
-<coref set-id="set_10">
+<coref set-id="set_108">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">election</w>
 </coref>
 <w pos="to">to</w>
 <w pos="dt">the</w>
-<coref set-id="set_79">
+<coref set-id="set_25">
 <w pos="nnp">Senate</w>
 </coref>
 <w pos="in">in</w>
 <w pos="nnp">November</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">began</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">presidential</w>
 <w pos="nn">campaign</w>
 <w pos="in">in</w>
-<coref set-id="set_73">
+<coref set-id="set_12">
 <w pos="cd">2007</w>
 </coref>
 <w pos=",">,</w>
 <w pos="cc">and</w>
 <w pos="in">in</w>
-<coref set-id="set_18">
+<coref set-id="set_4">
 <w pos="cd">2008</w>
 </coref>
 <w pos=",">,</w>
 <w pos="in">after</w>
 <w pos="dt">a</w>
 <w pos="jj">close</w>
-<coref set-id="set_93">
+<coref set-id="set_26">
 <w pos="nn">primary</w>
 </coref>
 <w pos="nn">campaign</w>
 <w pos="in">against</w>
-<coref set-id="set_110">
+<coref set-id="set_14">
 <w pos="nnp">Hillary</w>
 <w pos="nnp">Rodham</w>
 <w pos="nnp">Clinton</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">won</w>
@@ -337,13 +337,13 @@
 <w pos="nn">nomination</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">He</w>
 </coref>
 <w pos="rb">then</w>
 <w pos="vbd">defeated</w>
-<coref set-id="set_10">
-<coref set-id="set_108">
+<coref set-id="set_2">
+<coref set-id="set_56">
 <w pos="nnp">Republican</w>
 </coref>
 <w pos="nn">nominee</w>
@@ -351,7 +351,7 @@
 <w pos="nnp">McCain</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_62">
+<coref set-id="set_38">
 <w pos="dt">the</w>
 <w pos="jj">general</w>
 <w pos="nn">election</w>
@@ -361,7 +361,7 @@
 <w pos="vbd">was</w>
 <w pos="vbn">inaugurated</w>
 <w pos="in">as</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nn">president</w>
 </coref>
 <w pos="in">on</w>
@@ -375,12 +375,12 @@
 <w pos="nns">months</w>
 <w pos="rb">later</w>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="vbn">named</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">the</w>
 <w pos="cd">2009</w>
 <w pos="nnp">Nobel</w>
@@ -390,12 +390,12 @@
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="vbd">re-elected</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nn">president</w>
 </coref>
 <w pos="in">in</w>
@@ -403,8 +403,8 @@
 <w pos="cd">2012</w>
 <w pos=",">,</w>
 <w pos="vbg">defeating</w>
-<coref set-id="set_10">
-<coref set-id="set_108">
+<coref set-id="set_2">
+<coref set-id="set_56">
 <w pos="nnp">Republican</w>
 </coref>
 <w pos="nn">nominee</w>
@@ -413,17 +413,17 @@
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbz">is</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">the</w>
 <w pos="jj">first</w>
 <w pos="nnp">Democrat</w>
 </coref>
 <w pos="in">since</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Franklin</w>
 <w pos="nnp">D.</w>
 <w pos="nnp">Roosevelt</w>
@@ -434,12 +434,12 @@
 <w pos="jj">presidential</w>
 <w pos="nns">elections</w>
 <w pos="in">with</w>
-<coref set-id="set_36">
+<coref set-id="set_40">
 <w pos="dt">a</w>
 <w pos="nn">majority</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_2">
+<coref set-id="set_74">
 <w pos="dt">the</w>
 <w pos="jj">popular</w>
 <w pos="nn">vote</w>
@@ -447,17 +447,17 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">In</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">first</w>
 <w pos="nn">term</w>
 <w pos="in">in</w>
-<coref set-id="set_60">
+<coref set-id="set_73">
 <w pos="nn">office</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">major</w>
@@ -496,11 +496,11 @@
 <w pos="nnp">Creation</w>
 <w pos="nnp">Act</w>
 <w pos="in">of</w>
-<coref set-id="set_78">
+<coref set-id="set_83">
 <w pos="cd">2010</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_83">
+<coref set-id="set_21">
 <w pos="nn">response</w>
 </coref>
 <w pos="to">to</w>
@@ -509,7 +509,7 @@
 <w pos="nn">recession</w>
 <w pos="in">in</w>
 <w pos="dt">the</w>
-<coref set-id="set_16">
+<coref set-id="set_27">
 <w pos="nnp">United</w>
 <w pos="nnps">States</w>
 </coref>
@@ -543,7 +543,7 @@
 <w pos="nn">Repeal</w>
 <w pos="nns">Act</w>
 <w pos="in">of</w>
-<coref set-id="set_78">
+<coref set-id="set_83">
 <w pos="cd">2010</w>
 </coref>
 <w pos=":">;</w>
@@ -560,21 +560,21 @@
 <w pos="jj">foreign</w>
 <w pos="nn">policy</w>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">ended</w>
-<coref set-id="set_51">
-<coref set-id="set_16">
+<coref set-id="set_10">
+<coref set-id="set_27">
 <w pos="nnp">U.S.</w>
 </coref>
 <w pos="jj">military</w>
 <w pos="nn">involvement</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_21">
+<coref set-id="set_44">
 <w pos="dt">the</w>
-<coref set-id="set_61">
+<coref set-id="set_92">
 <w pos="nnp">Iraq</w>
 </coref>
 <w pos="nnp">War</w>
@@ -597,8 +597,8 @@
 <w pos="nnp">Russia</w>
 <w pos=",">,</w>
 <w pos="vbd">ordered</w>
-<coref set-id="set_51">
-<coref set-id="set_16">
+<coref set-id="set_10">
+<coref set-id="set_27">
 <w pos="nnp">U.S.</w>
 </coref>
 <w pos="jj">military</w>
@@ -615,12 +615,12 @@
 <w pos="wdt">that</w>
 <w pos="vbd">resulted</w>
 <w pos="in">in</w>
-<coref set-id="set_115">
+<coref set-id="set_65">
 <w pos="dt">the</w>
 <w pos="nn">death</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Osama</w>
 <w pos="nn">bin</w>
 <w pos="nnp">Laden</w>
@@ -631,15 +631,15 @@
 <w pos="nnp">May</w>
 <w pos="cd">2012</w>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">became</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">the</w>
 <w pos="jj">first</w>
 <w pos="vbg">sitting</w>
-<coref set-id="set_16">
+<coref set-id="set_27">
 <w pos="nnp">U.S.</w>
 </coref>
 <w pos="nn">president</w>
@@ -652,13 +652,13 @@
 <w pos="nn">marriage</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="vbn">born</w>
 <w pos="in">on</w>
-<coref set-id="set_113">
+<coref set-id="set_90">
 <w pos="nnp">August</w>
 <w pos="cd">4</w>
 <w pos=",">,</w>
@@ -679,22 +679,22 @@
 <w pos="in">for</w>
 <w pos="nnp">Women</w>
 <w pos="cc">and</w>
-<coref set-id="set_52">
+<coref set-id="set_106">
 <w pos="nns">Children</w>
 </coref>
 <w pos="-rrb-">)</w>
 <w pos="in">in</w>
-<coref set-id="set_40">
+<coref set-id="set_95">
 <w pos="nnp">Honolulu</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_46">
+<coref set-id="set_61">
 <w pos="nnp">Hawaii</w>
 </coref>
 <w pos=",">,</w>
 <w pos="cc">and</w>
 <w pos="vbz">is</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">the</w>
 <w pos="jj">first</w>
 <w pos="nnp">President</w>
@@ -704,19 +704,19 @@
 <w pos="vbn">been</w>
 <w pos="vbn">born</w>
 <w pos="in">in</w>
-<coref set-id="set_46">
+<coref set-id="set_61">
 <w pos="nnp">Hawaii</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_85">
-<coref set-id="set_10">
+<coref set-id="set_93">
+<coref set-id="set_2">
 <w pos="prp$">His</w>
 </coref>
 <w pos="nn">mother</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Stanley</w>
 <w pos="nnp">Ann</w>
 <w pos="nnp">Dunham</w>
@@ -737,35 +737,37 @@
 <w pos="nn">ancestry</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
-<coref set-id="set_10">
+<coref set-id="set_2">
+<coref set-id="set_2">
 <w pos="prp$">His</w>
 </coref>
 <w pos="nn">father</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Barack</w>
 <w pos="nnp">Obama</w>
 </coref>
 <w pos=",">,</w>
-<w pos="nnp">Sr.</w>
+<coref set-id="set_2">
+<w pos="nnp">Sr</w>
+</coref>
 <w pos=",">,</w>
 <w pos="vbd">was</w>
 <w pos="dt">a</w>
 <w pos="nn">Luo</w>
 <w pos="in">from</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Nyangoma</w>
 <w pos="nnp">Kogelo</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_29">
+<coref set-id="set_96">
 <w pos="nnp">Kenya</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="pos">'s</w>
@@ -778,37 +780,37 @@
 <w pos="jj">Russian</w>
 <w pos="nn">class</w>
 <w pos="in">at</w>
-<coref set-id="set_32">
+<coref set-id="set_18">
 <w pos="dt">the</w>
 <w pos="nnp">University</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_46">
+<coref set-id="set_61">
 <w pos="nnp">Hawaii</w>
 </coref>
 <w pos="in">at</w>
 <w pos="nnp">Mnoa</w>
 <w pos=",">,</w>
 <w pos="wrb">where</w>
-<coref set-id="set_10">
-<coref set-id="set_10">
+<coref set-id="set_2">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">father</w>
 </coref>
 <w pos="vbd">was</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">a</w>
 <w pos="jj">foreign</w>
 <w pos="nn">student</w>
 </coref>
 <w pos="in">on</w>
-<coref set-id="set_116">
+<coref set-id="set_63">
 <w pos="nn">scholarship</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_64">
+<coref set-id="set_28">
 <w pos="dt">The</w>
 <w pos="nn">couple</w>
 </coref>
@@ -826,15 +828,15 @@
 <w pos="cc">and</w>
 <w pos="vbn">separated</w>
 <w pos="wrb">when</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="pos">'s</w>
 <w pos="nn">mother</w>
 <w pos="vbd">moved</w>
 <w pos="in">with</w>
-<coref set-id="set_10">
-<coref set-id="set_10">
+<coref set-id="set_2">
+<coref set-id="set_2">
 <w pos="prp$">her</w>
 </coref>
 <w pos="jj">newborn</w>
@@ -843,7 +845,7 @@
 <w pos="to">to</w>
 <w pos="nnp">Seattle</w>
 <w pos=",">,</w>
-<coref set-id="set_34">
+<coref set-id="set_49">
 <w pos="nnp">Washington</w>
 </coref>
 <w pos=",">,</w>
@@ -854,16 +856,16 @@
 <w pos=",">,</w>
 <w pos="to">to</w>
 <w pos="vb">attend</w>
-<coref set-id="set_32">
+<coref set-id="set_18">
 <w pos="dt">the</w>
 <w pos="nnp">University</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_34">
+<coref set-id="set_49">
 <w pos="nnp">Washington</w>
 </coref>
 <w pos="in">for</w>
-<coref set-id="set_8">
+<coref set-id="set_50">
 <w pos="cd">one</w>
 <w pos="nn">year</w>
 </coref>
@@ -873,26 +875,22 @@
 <w pos="dt">the</w>
 <w pos="nn">meantime</w>
 <w pos=",">,</w>
-<coref set-id="set_10">
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos=",">,</w>
 <w pos="nnp">Sr</w>
-</coref>
-<w pos=".">.</w>
-</s><s>
 <w pos="vbd">completed</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nn">undergraduate</w>
 </coref>
 <w pos="nns">economics</w>
 <w pos="nn">degree</w>
 <w pos="in">in</w>
-<coref set-id="set_46">
+<coref set-id="set_61">
 <w pos="nnp">Hawaii</w>
 </coref>
 <w pos="in">in</w>
@@ -909,13 +907,13 @@
 <w pos="nnp">Harvard</w>
 <w pos="nnp">University</w>
 <w pos="in">on</w>
-<coref set-id="set_116">
+<coref set-id="set_63">
 <w pos="dt">a</w>
 <w pos="nn">scholarship</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="pos">'s</w>
@@ -926,44 +924,42 @@
 <w pos="cd">1964</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 <w pos="nnp">Sr</w>
 </coref>
-<w pos=".">.</w>
-</s><s>
 <w pos="vbd">returned</w>
 <w pos="to">to</w>
-<coref set-id="set_29">
+<coref set-id="set_96">
 <w pos="nnp">Kenya</w>
 </coref>
 <w pos="in">in</w>
 <w pos="cd">1964</w>
 <w pos="wrb">where</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">remarried</w>
 <w pos=":">;</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">visited</w>
 <w pos="nnp">Barack</w>
 <w pos="in">in</w>
-<coref set-id="set_46">
+<coref set-id="set_61">
 <w pos="nnp">Hawaii</w>
 </coref>
 <w pos="rb">only</w>
 <w pos="rb">once</w>
 <w pos=",">,</w>
 <w pos="in">in</w>
-<coref set-id="set_101">
+<coref set-id="set_53">
 <w pos="cd">1971</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">died</w>
@@ -978,18 +974,18 @@
 <w pos="in">In</w>
 <w pos="cd">1963</w>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Dunham</w>
 </coref>
 <w pos="vbd">met</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Lolo</w>
 <w pos="nnp">Soetoro</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">an</w>
-<coref set-id="set_45">
+<coref set-id="set_13">
 <w pos="nnp">Indonesian</w>
 <w pos="nnp">East</w>
 <w pos="nnps">West</w>
@@ -1001,17 +997,17 @@
 <w pos="in">in</w>
 <w pos="nn">geography</w>
 <w pos="in">at</w>
-<coref set-id="set_32">
+<coref set-id="set_18">
 <w pos="dt">the</w>
 <w pos="nnp">University</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_46">
+<coref set-id="set_61">
 <w pos="nnp">Hawaii</w>
 </coref>
 <w pos=",">,</w>
 <w pos="cc">and</w>
-<coref set-id="set_64">
+<coref set-id="set_28">
 <w pos="dt">the</w>
 <w pos="nn">couple</w>
 </coref>
@@ -1031,18 +1027,18 @@
 <w pos="jj">one-year</w>
 <w pos="nns">extensions</w>
 <w pos="in">of</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">J-1</w>
 <w pos="nn">visa</w>
 <w pos=",">,</w>
-<coref set-id="set_66">
+<coref set-id="set_58">
 <w pos="nnp">Lolo</w>
 </coref>
 <w pos="vbd">returned</w>
 <w pos="to">to</w>
-<coref set-id="set_45">
+<coref set-id="set_13">
 <w pos="nnp">Indonesia</w>
 </coref>
 <w pos="in">in</w>
@@ -1053,7 +1049,7 @@
 <w pos="nns">months</w>
 <w pos="rb">later</w>
 <w pos="in">by</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">wife</w>
@@ -1063,7 +1059,7 @@
 <w pos="cd">1967</w>
 <w pos=",">,</w>
 <w pos="in">with</w>
-<coref set-id="set_25">
+<coref set-id="set_62">
 <w pos="dt">the</w>
 <w pos="nn">family</w>
 </coref>
@@ -1104,7 +1100,7 @@
 <w pos="to">to</w>
 <w pos="vb">ten</w>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">attended</w>
@@ -1115,7 +1111,7 @@
 <w pos="nnp">St</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Francis</w>
 </coref>
 <w pos="in">of</w>
@@ -1143,8 +1139,8 @@
 <w pos="nn">home</w>
 <w pos="nn">schooling</w>
 <w pos="in">by</w>
-<coref set-id="set_85">
-<coref set-id="set_12">
+<coref set-id="set_93">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">mother</w>
@@ -1152,23 +1148,23 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">In</w>
-<coref set-id="set_101">
+<coref set-id="set_53">
 <w pos="cd">1971</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">returned</w>
 <w pos="to">to</w>
-<coref set-id="set_40">
+<coref set-id="set_95">
 <w pos="nnp">Honolulu</w>
 </coref>
 <w pos="to">to</w>
 <w pos="vb">live</w>
 <w pos="in">with</w>
-<coref set-id="set_10">
-<coref set-id="set_12">
+<coref set-id="set_2">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">maternal</w>
@@ -1176,7 +1172,7 @@
 <w pos=",">,</w>
 <w pos="nnp">Madelyn</w>
 <w pos="cc">and</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Stanley</w>
 <w pos="nnp">Dunham</w>
 </coref>
@@ -1187,7 +1183,7 @@
 <w pos="dt">the</w>
 <w pos="nn">aid</w>
 <w pos="in">of</w>
-<coref set-id="set_116">
+<coref set-id="set_63">
 <w pos="dt">a</w>
 <w pos="nn">scholarship</w>
 </coref>
@@ -1197,8 +1193,8 @@
 <w pos=",">,</w>
 <w pos="dt">a</w>
 <w pos="jj">private</w>
-<coref set-id="set_81">
-<coref set-id="set_111">
+<coref set-id="set_97">
+<coref set-id="set_68">
 <w pos="nn">college</w>
 </coref>
 <w pos="nn">preparatory</w>
@@ -1209,28 +1205,28 @@
 <w pos="cd">fifth</w>
 <w pos="nn">grade</w>
 <w pos="in">until</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">graduation</w>
 <w pos="in">from</w>
-<coref set-id="set_28">
+<coref set-id="set_17">
 <w pos="jj">high</w>
 <w pos="nn">school</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_27">
+<coref set-id="set_55">
 <w pos="cd">1979</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">lived</w>
 <w pos="in">with</w>
-<coref set-id="set_12">
-<coref set-id="set_12">
+<coref set-id="set_5">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">mother</w>
@@ -1238,11 +1234,11 @@
 <w pos="cc">and</w>
 <w pos="nn">sister</w>
 <w pos="in">in</w>
-<coref set-id="set_46">
+<coref set-id="set_61">
 <w pos="nnp">Hawaii</w>
 </coref>
 <w pos="in">for</w>
-<coref set-id="set_97">
+<coref set-id="set_110">
 <w pos="cd">three</w>
 <w pos="nns">years</w>
 </coref>
@@ -1251,58 +1247,58 @@
 <w pos="to">to</w>
 <w pos="cd">1975</w>
 <w pos="in">while</w>
-<coref set-id="set_12">
-<coref set-id="set_12">
+<coref set-id="set_5">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">mother</w>
 </coref>
 <w pos="vbd">was</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="dt">a</w>
 <w pos="jj">graduate</w>
 <w pos="nn">student</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_96">
+<coref set-id="set_64">
 <w pos="nn">anthropology</w>
 </coref>
 <w pos="in">at</w>
-<coref set-id="set_32">
+<coref set-id="set_18">
 <w pos="dt">the</w>
 <w pos="nnp">University</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_46">
+<coref set-id="set_61">
 <w pos="nnp">Hawaii</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">chose</w>
 <w pos="to">to</w>
 <w pos="vb">stay</w>
 <w pos="in">in</w>
-<coref set-id="set_46">
+<coref set-id="set_61">
 <w pos="nnp">Hawaii</w>
 </coref>
 <w pos="in">with</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nns">grandparents</w>
 <w pos="in">for</w>
-<coref set-id="set_28">
+<coref set-id="set_17">
 <w pos="jj">high</w>
 <w pos="nn">school</w>
 </coref>
 <w pos="in">at</w>
 <w pos="nnp">Punahou</w>
 <w pos="wrb">when</w>
-<coref set-id="set_12">
-<coref set-id="set_12">
+<coref set-id="set_5">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">mother</w>
@@ -1311,22 +1307,22 @@
 <w pos="nn">sister</w>
 <w pos="vbd">returned</w>
 <w pos="to">to</w>
-<coref set-id="set_45">
+<coref set-id="set_13">
 <w pos="nnp">Indonesia</w>
 </coref>
 <w pos="in">in</w>
 <w pos="cd">1975</w>
 <w pos="to">to</w>
 <w pos="vb">begin</w>
-<coref set-id="set_96">
+<coref set-id="set_64">
 <w pos="nn">anthropology</w>
 </coref>
 <w pos="nn">field</w>
 <w pos="nn">work</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
-<coref set-id="set_12">
+<coref set-id="set_5">
+<coref set-id="set_5">
 <w pos="prp$">His</w>
 </coref>
 <w pos="nn">mother</w>
@@ -1339,12 +1335,12 @@
 <w pos="cd">two</w>
 <w pos="nns">decades</w>
 <w pos="in">in</w>
-<coref set-id="set_45">
+<coref set-id="set_13">
 <w pos="nnp">Indonesia</w>
 </coref>
 <w pos=",">,</w>
 <w pos="vbg">divorcing</w>
-<coref set-id="set_66">
+<coref set-id="set_58">
 <w pos="nnp">Lolo</w>
 </coref>
 <w pos="in">in</w>
@@ -1354,18 +1350,18 @@
 <w pos="dt">a</w>
 <w pos="nn">PhD</w>
 <w pos="in">in</w>
-<coref set-id="set_89">
+<coref set-id="set_70">
 <w pos="cd">1992</w>
 </coref>
 <w pos=",">,</w>
 <w pos="in">before</w>
 <w pos="vbg">dying</w>
 <w pos="in">in</w>
-<coref set-id="set_74">
+<coref set-id="set_67">
 <w pos="cd">1995</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_46">
+<coref set-id="set_61">
 <w pos="nnp">Hawaii</w>
 </coref>
 <w pos="vbg">following</w>
@@ -1379,21 +1375,21 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">Of</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">early</w>
 <w pos="nn">childhood</w>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">recalled</w>
 <w pos=",">,</w>
 <w pos="&quot;">"</w>
 <w pos="dt">That</w>
-<coref set-id="set_12">
-<coref set-id="set_30">
+<coref set-id="set_5">
+<coref set-id="set_19">
 <w pos="prp$">my</w>
 </coref>
 <w pos="nn">father</w>
@@ -1405,7 +1401,7 @@
 <w pos="nns">people</w>
 <w pos="in">around</w>
 <w pos="in">methat</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">was</w>
@@ -1413,8 +1409,8 @@
 <w pos="in">as</w>
 <w pos="nn">pitch</w>
 <w pos=",">,</w>
-<coref set-id="set_12">
-<coref set-id="set_30">
+<coref set-id="set_5">
+<coref set-id="set_19">
 <w pos="prp$">my</w>
 </coref>
 <w pos="nn">mother</w>
@@ -1424,8 +1420,8 @@
 <w pos="rb">milkbarely</w>
 <w pos="jj">registered</w>
 <w pos="in">in</w>
-<coref set-id="set_5">
-<coref set-id="set_30">
+<coref set-id="set_16">
+<coref set-id="set_19">
 <w pos="prp$">my</w>
 </coref>
 <w pos="nn">mind</w>
@@ -1433,16 +1429,16 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="&quot;">"</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">described</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nns">struggles</w>
 <w pos="in">as</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="dt">a</w>
 <w pos="jj">young</w>
 <w pos="nn">adult</w>
@@ -1452,7 +1448,7 @@
 <w pos="jj">social</w>
 <w pos="nns">perceptions</w>
 <w pos="in">of</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">multiracial</w>
@@ -1462,16 +1458,16 @@
 <w pos="vbg">Reflecting</w>
 <w pos="rb">later</w>
 <w pos="in">on</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nns">years</w>
 <w pos="in">in</w>
-<coref set-id="set_40">
+<coref set-id="set_95">
 <w pos="nnp">Honolulu</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">wrote</w>
@@ -1480,7 +1476,7 @@
 <w pos="dt">The</w>
 <w pos="nn">opportunity</w>
 <w pos="in">that</w>
-<coref set-id="set_46">
+<coref set-id="set_61">
 <w pos="nnp">Hawaii</w>
 </coref>
 <w pos="vbp">offeredto</w>
@@ -1499,7 +1495,7 @@
 <w pos="jj">integral</w>
 <w pos="nn">part</w>
 <w pos="in">of</w>
-<coref set-id="set_30">
+<coref set-id="set_19">
 <w pos="prp$">my</w>
 </coref>
 <w pos="nn">world</w>
@@ -1512,7 +1508,7 @@
 <w pos="dt">the</w>
 <w pos="nns">values</w>
 <w pos="in">that</w>
-<coref set-id="set_117">
+<coref set-id="set_51">
 <w pos="prp">I</w>
 </coref>
 <w pos="vbp">hold</w>
@@ -1521,7 +1517,7 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="&quot;">"</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbz">has</w>
@@ -1538,7 +1534,7 @@
 <w pos="cc">and</w>
 <w pos="nn">cocaine</w>
 <w pos="in">during</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">teenage</w>
@@ -1548,14 +1544,14 @@
 <w pos="nns">questions</w>
 <w pos="in">of</w>
 <w pos="wp">who</w>
-<coref set-id="set_117">
+<coref set-id="set_51">
 <w pos="prp">I</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="in">out</w>
 <w pos="in">of</w>
-<coref set-id="set_5">
-<coref set-id="set_30">
+<coref set-id="set_16">
+<coref set-id="set_19">
 <w pos="prp$">my</w>
 </coref>
 <w pos="nn">mind</w>
@@ -1563,12 +1559,12 @@
 <w pos="&quot;">"</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="rb">also</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="dt">a</w>
 <w pos="nn">member</w>
 </coref>
@@ -1585,7 +1581,7 @@
 <w pos="nns">friends</w>
 <w pos="wdt">that</w>
 <w pos="vbd">spent</w>
-<coref set-id="set_86">
+<coref set-id="set_99">
 <w pos="nn">time</w>
 </coref>
 <w pos="rb">together</w>
@@ -1601,18 +1597,18 @@
 <w pos="nnp">Civil</w>
 <w pos="nnp">Forum</w>
 <w pos="in">on</w>
-<coref set-id="set_41">
+<coref set-id="set_87">
 <w pos="dt">the</w>
 <w pos="nnp">Presidency</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">expressed</w>
 <w pos="nns">regret</w>
 <w pos="in">for</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">high-school</w>
@@ -1621,12 +1617,12 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="vbg">Following</w>
-<coref set-id="set_28">
+<coref set-id="set_17">
 <w pos="jj">high</w>
 <w pos="nn">school</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">moved</w>
@@ -1634,12 +1630,12 @@
 <w pos="nnp">Los</w>
 <w pos="nnp">Angeles</w>
 <w pos="in">in</w>
-<coref set-id="set_27">
+<coref set-id="set_55">
 <w pos="cd">1979</w>
 </coref>
 <w pos="to">to</w>
 <w pos="vb">attend</w>
-<coref set-id="set_77">
+<coref set-id="set_116">
 <w pos="nnp">Occidental</w>
 <w pos="nnp">College</w>
 </coref>
@@ -1649,11 +1645,11 @@
 <w pos="nnp">February</w>
 <w pos="cd">1981</w>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">made</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">first</w>
@@ -1662,22 +1658,22 @@
 <w pos=",">,</w>
 <w pos="vbg">calling</w>
 <w pos="in">for</w>
-<coref set-id="set_77">
+<coref set-id="set_116">
 <w pos="nnp">Occidental</w>
 </coref>
 <w pos="to">to</w>
 <w pos="vb">divest</w>
 <w pos="in">from</w>
-<coref set-id="set_31">
+<coref set-id="set_69">
 <w pos="nnp">South</w>
 <w pos="nnp">Africa</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_83">
+<coref set-id="set_21">
 <w pos="nn">response</w>
 </coref>
 <w pos="to">to</w>
-<coref set-id="set_31">
+<coref set-id="set_69">
 <w pos="prp$">its</w>
 </coref>
 <w pos="nn">policy</w>
@@ -1688,18 +1684,18 @@
 <w pos="in">In</w>
 <w pos="nn">mid-1981</w>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">traveled</w>
 <w pos="to">to</w>
-<coref set-id="set_45">
+<coref set-id="set_13">
 <w pos="nnp">Indonesia</w>
 </coref>
 <w pos="to">to</w>
 <w pos="vb">visit</w>
-<coref set-id="set_12">
-<coref set-id="set_12">
+<coref set-id="set_5">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">mother</w>
@@ -1713,18 +1709,18 @@
 <w pos="dt">the</w>
 <w pos="nns">families</w>
 <w pos="in">of</w>
-<coref set-id="set_111">
+<coref set-id="set_68">
 <w pos="nn">college</w>
 </coref>
 <w pos="nns">friends</w>
 <w pos="in">in</w>
 <w pos="nnp">Pakistan</w>
 <w pos="cc">and</w>
-<coref set-id="set_84">
+<coref set-id="set_91">
 <w pos="nnp">India</w>
 </coref>
 <w pos="in">for</w>
-<coref set-id="set_50">
+<coref set-id="set_105">
 <w pos="cd">three</w>
 <w pos="nns">weeks</w>
 </coref>
@@ -1734,12 +1730,12 @@
 <w pos="in">in</w>
 <w pos="cd">1981</w>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbn">transferred</w>
 <w pos="to">to</w>
-<coref set-id="set_19">
+<coref set-id="set_114">
 <w pos="nnp">Columbia</w>
 <w pos="nnp">University</w>
 </coref>
@@ -1749,7 +1745,7 @@
 <w pos="nnp">City</w>
 <w pos=",">,</w>
 <w pos="wrb">where</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">majored</w>
@@ -1765,7 +1761,7 @@
 <w pos="cc">and</w>
 <w pos="vbd">graduated</w>
 <w pos="in">with</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="dt">a</w>
 <w pos="nn">Bachelor</w>
 </coref>
@@ -1775,7 +1771,7 @@
 <w pos="cd">1983</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">worked</w>
@@ -1801,17 +1797,17 @@
 <w pos="in">after</w>
 <w pos="nn">graduating</w>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="vbn">hired</w>
 <w pos="in">in</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos="in">as</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nn">director</w>
 </coref>
 <w pos="in">of</w>
@@ -1823,7 +1819,7 @@
 <w pos=",">,</w>
 <w pos="dt">a</w>
 <w pos="jj">church-based</w>
-<coref set-id="set_63">
+<coref set-id="set_57">
 <w pos="nn">community</w>
 </coref>
 <w pos="nn">organization</w>
@@ -1841,7 +1837,7 @@
 <w pos="cc">and</w>
 <w pos="nnp">Riverdale</w>
 <w pos="in">on</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos="pos">'s</w>
@@ -1849,15 +1845,15 @@
 <w pos="nn">Side</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">worked</w>
 <w pos="rb">there</w>
 <w pos="in">as</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="dt">a</w>
-<coref set-id="set_63">
+<coref set-id="set_57">
 <w pos="nn">community</w>
 </coref>
 <w pos="nn">organizer</w>
@@ -1870,22 +1866,22 @@
 <w pos="cd">1988</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">helped</w>
 <w pos="vb">set</w>
 <w pos="rp">up</w>
 <w pos="dt">a</w>
-<coref set-id="set_35">
+<coref set-id="set_115">
 <w pos="nn">job</w>
 </coref>
 <w pos="nn">training</w>
 <w pos="nn">program</w>
 <w pos=",">,</w>
 <w pos="dt">a</w>
-<coref set-id="set_81">
-<coref set-id="set_111">
+<coref set-id="set_97">
+<coref set-id="set_68">
 <w pos="nn">college</w>
 </coref>
 <w pos="nn">preparatory</w>
@@ -1897,7 +1893,7 @@
 <w pos="dt">a</w>
 <w pos="jj">tenants</w>
 <w pos="&quot;">'</w>
-<coref set-id="set_7">
+<coref set-id="set_0">
 <w pos="nns">rights</w>
 </coref>
 <w pos="nn">organization</w>
@@ -1906,18 +1902,18 @@
 <w pos="nnps">Gardens</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="rb">also</w>
 <w pos="vbd">worked</w>
 <w pos="in">as</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="dt">a</w>
 <w pos="nn">consultant</w>
 </coref>
 <w pos="cc">and</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nn">instructor</w>
 </coref>
 <w pos="in">for</w>
@@ -1926,7 +1922,7 @@
 <w pos="nnp">Foundation</w>
 <w pos=",">,</w>
 <w pos="dt">a</w>
-<coref set-id="set_63">
+<coref set-id="set_57">
 <w pos="nn">community</w>
 </coref>
 <w pos="vbg">organizing</w>
@@ -1936,12 +1932,12 @@
 <w pos="in">In</w>
 <w pos="nn">mid-1988</w>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">traveled</w>
 <w pos="in">for</w>
-<coref set-id="set_13">
+<coref set-id="set_112">
 <w pos="dt">the</w>
 <w pos="jj">first</w>
 <w pos="nn">time</w>
@@ -1949,7 +1945,7 @@
 <w pos="in">in</w>
 <w pos="nnp">Europe</w>
 <w pos="in">for</w>
-<coref set-id="set_50">
+<coref set-id="set_105">
 <w pos="cd">three</w>
 <w pos="nns">weeks</w>
 </coref>
@@ -1959,51 +1955,51 @@
 <w pos="cd">five</w>
 <w pos="nns">weeks</w>
 <w pos="in">in</w>
-<coref set-id="set_29">
+<coref set-id="set_96">
 <w pos="nnp">Kenya</w>
 </coref>
 <w pos=",">,</w>
 <w pos="wrb">where</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">met</w>
 <w pos="jj">many</w>
 <w pos="in">of</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">paternal</w>
 <w pos="nns">relatives</w>
 <w pos="in">for</w>
-<coref set-id="set_13">
+<coref set-id="set_112">
 <w pos="dt">the</w>
 <w pos="jj">first</w>
 <w pos="nn">time</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">returned</w>
 <w pos="to">to</w>
-<coref set-id="set_29">
+<coref set-id="set_96">
 <w pos="nnp">Kenya</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_89">
+<coref set-id="set_70">
 <w pos="cd">1992</w>
 </coref>
 <w pos="in">with</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">fiance</w>
 <w pos="nnp">Michelle</w>
 <w pos="cc">and</w>
-<coref set-id="set_12">
-<coref set-id="set_12">
+<coref set-id="set_5">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">sister</w>
@@ -2011,12 +2007,12 @@
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">returned</w>
 <w pos="to">to</w>
-<coref set-id="set_29">
+<coref set-id="set_96">
 <w pos="nnp">Kenya</w>
 </coref>
 <w pos="in">in</w>
@@ -2026,8 +2022,8 @@
 <w pos="dt">a</w>
 <w pos="nn">visit</w>
 <w pos="to">to</w>
-<coref set-id="set_12">
-<coref set-id="set_12">
+<coref set-id="set_5">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">father</w>
@@ -2049,30 +2045,30 @@
 <w pos="jj">late</w>
 <w pos="cd">1988</w>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">entered</w>
-<coref set-id="set_43">
+<coref set-id="set_22">
 <w pos="nnp">Harvard</w>
 <w pos="nnp">Law</w>
 <w pos="nnp">School</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="vbn">selected</w>
 <w pos="in">as</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="dt">an</w>
 <w pos="nn">editor</w>
 </coref>
 <w pos="in">of</w>
 <w pos="dt">the</w>
-<coref set-id="set_24">
+<coref set-id="set_37">
 <w pos="nnp">Harvard</w>
 <w pos="nnp">Law</w>
 <w pos="nnp">Review</w>
@@ -2081,21 +2077,21 @@
 <w pos="dt">the</w>
 <w pos="nn">end</w>
 <w pos="in">of</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">first</w>
 <w pos="nn">year</w>
 <w pos=",">,</w>
 <w pos="cc">and</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nn">president</w>
 </coref>
 <w pos="in">of</w>
 <w pos="dt">the</w>
 <w pos="nn">journal</w>
 <w pos="in">in</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">second</w>
@@ -2103,33 +2099,33 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">During</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nns">summers</w>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">returned</w>
 <w pos="to">to</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos=",">,</w>
 <w pos="wrb">where</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">worked</w>
 <w pos="in">as</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="dt">an</w>
 <w pos="nn">associate</w>
 </coref>
 <w pos="in">at</w>
 <w pos="dt">the</w>
-<coref set-id="set_53">
+<coref set-id="set_34">
 <w pos="nn">law</w>
 </coref>
 <w pos="nns">firms</w>
@@ -2137,8 +2133,8 @@
 <w pos="nnp">Sidley</w>
 <w pos="nnp">Austin</w>
 <w pos="in">in</w>
-<coref set-id="set_12">
-<coref set-id="set_12">
+<coref set-id="set_5">
+<coref set-id="set_5">
 <w pos="nnp">1989</w>
 <w pos="cc">and</w>
 <w pos="nnp">Hopkins</w>
@@ -2159,31 +2155,31 @@
 <w pos="nn">cum</w>
 <w pos="nn">laude</w>
 <w pos="in">from</w>
-<coref set-id="set_24">
+<coref set-id="set_37">
 <w pos="nnp">Harvard</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_107">
+<coref set-id="set_9">
 <w pos="cd">1991</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">returned</w>
 <w pos="to">to</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="pos">'s</w>
 <w pos="nn">election</w>
 <w pos="in">as</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="dt">the</w>
 <w pos="jj">first</w>
 <w pos="jj">black</w>
@@ -2191,7 +2187,7 @@
 </coref>
 <w pos="in">of</w>
 <w pos="dt">the</w>
-<coref set-id="set_24">
+<coref set-id="set_37">
 <w pos="nnp">Harvard</w>
 <w pos="nnp">Law</w>
 <w pos="nnp">Review</w>
@@ -2214,7 +2210,7 @@
 <w pos="dt">a</w>
 <w pos="nn">book</w>
 <w pos="in">about</w>
-<coref set-id="set_90">
+<coref set-id="set_20">
 <w pos="nn">race</w>
 </coref>
 <w pos="nns">relations</w>
@@ -2234,21 +2230,21 @@
 <w pos="in">in</w>
 <w pos="nn">mid-1995</w>
 <w pos="in">as</w>
-<coref set-id="set_75">
+<coref set-id="set_94">
 <w pos="nns">Dreams</w>
 </coref>
 <w pos="in">from</w>
-<coref set-id="set_30">
+<coref set-id="set_19">
 <w pos="prp$">My</w>
 </coref>
 <w pos="nn">Father.</w>
 </s><s>
 <w pos="in">In</w>
-<coref set-id="set_107">
+<coref set-id="set_9">
 <w pos="cd">1991</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_12">
+<coref set-id="set_5">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">accepted</w>
@@ -2257,20 +2253,20 @@
 <w pos="nn">position</w>
 <w pos="in">as</w>
 <w pos="vbg">Visiting</w>
-<coref set-id="set_53">
+<coref set-id="set_34">
 <w pos="nn">Law</w>
 </coref>
 <w pos="cc">and</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nn">Government</w>
 <w pos="nn">Fellow</w>
 </coref>
 <w pos="in">at</w>
 <w pos="dt">the</w>
-<coref set-id="set_100">
+<coref set-id="set_30">
 <w pos="nnp">University</w>
 <w pos="in">of</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos="nnp">Law</w>
@@ -2279,22 +2275,22 @@
 <w pos="to">to</w>
 <w pos="vb">work</w>
 <w pos="in">on</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">first</w>
 <w pos="nn">book</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="prp">He</w>
 </coref>
 <w pos="rb">then</w>
 <w pos="vbd">taught</w>
 <w pos="in">at</w>
-<coref set-id="set_32">
+<coref set-id="set_18">
 <w pos="dt">the</w>
-<coref set-id="set_100">
+<coref set-id="set_30">
 <w pos="nnp">University</w>
 </coref>
 </coref>
@@ -2305,33 +2301,33 @@
 <w pos="in">for</w>
 <w pos="cd">twelve</w>
 <w pos="nns">yearsas</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="dt">a</w>
 <w pos="nn">Lecturer</w>
 </coref>
 <w pos="in">from</w>
-<coref set-id="set_89">
+<coref set-id="set_70">
 <w pos="cd">1992</w>
 </coref>
 <w pos="to">to</w>
-<coref set-id="set_76">
+<coref set-id="set_101">
 <w pos="cd">1996</w>
 </coref>
 <w pos=",">,</w>
 <w pos="cc">and</w>
 <w pos="in">as</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="dt">a</w>
 <w pos="nnp">Senior</w>
 <w pos="nnp">Lecturer</w>
 </coref>
 <w pos="in">from</w>
-<coref set-id="set_76">
+<coref set-id="set_101">
 <w pos="cd">1996</w>
 </coref>
 <w pos="to">to</w>
 <w pos="vb">2004teaching</w>
-<coref set-id="set_102">
+<coref set-id="set_80">
 <w pos="jj">constitutional</w>
 <w pos="nn">law</w>
 </coref>
@@ -2343,11 +2339,11 @@
 <w pos="nnp">October</w>
 <w pos="cd">1992</w>
 <w pos=",">,</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">directed</w>
-<coref set-id="set_44">
+<coref set-id="set_31">
 <w pos="nnp">Illinois</w>
 </coref>
 <w pos="pos">'s</w>
@@ -2355,7 +2351,7 @@
 <w pos="nn">Vote</w>
 <w pos=",">,</w>
 <w pos="dt">a</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nn">voter</w>
 </coref>
 <w pos="nn">registration</w>
@@ -2366,16 +2362,16 @@
 <w pos="cc">and</w>
 <w pos="cd">seven</w>
 <w pos="cd">hundred</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nn">volunteer</w>
 </coref>
 <w pos="nns">registrars</w>
 <w pos=":">;</w>
-<coref set-id="set_44">
+<coref set-id="set_31">
 <w pos="prp">it</w>
 </coref>
 <w pos="vbd">achieved</w>
-<coref set-id="set_44">
+<coref set-id="set_31">
 <w pos="prp$">its</w>
 </coref>
 <w pos="nn">goal</w>
@@ -2388,27 +2384,27 @@
 <w pos="nnp">African</w>
 <w pos="nnps">Americans</w>
 <w pos="in">in</w>
-<coref set-id="set_87">
+<coref set-id="set_75">
 <w pos="dt">the</w>
 <w pos="nn">state</w>
 </coref>
 <w pos=",">,</w>
 <w pos="vbg">leading</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nnp">Crain</w>
 </coref>
 <w pos="pos">'s</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos="nnp">Business</w>
 <w pos="to">to</w>
 <w pos="vb">name</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="to">to</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="prp$">its</w>
 </coref>
 <w pos="cd">1993</w>
@@ -2425,32 +2421,32 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">In</w>
-<coref set-id="set_20">
+<coref set-id="set_81">
 <w pos="cd">1993</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">joined</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nnp">Davis</w>
 </coref>
 <w pos=",">,</w>
 <w pos="nnp">Miner</w>
 <w pos=",">,</w>
-<coref set-id="set_6">
-<coref set-id="set_6">
+<coref set-id="set_3">
+<coref set-id="set_3">
 <w pos="nnp">Barnhill</w>
 </coref>
 <w pos="cc">and</w>
 <w pos="nnp">Galland</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="dt">a</w>
 <w pos="jj">13-attorney</w>
-<coref set-id="set_53">
+<coref set-id="set_34">
 <w pos="nn">law</w>
 </coref>
 <w pos="nn">firm</w>
@@ -2458,7 +2454,7 @@
 <w pos="vbg">specializing</w>
 <w pos="in">in</w>
 <w pos="jj">civil</w>
-<coref set-id="set_7">
+<coref set-id="set_0">
 <w pos="nns">rights</w>
 </coref>
 <w pos="nn">litigation</w>
@@ -2468,31 +2464,31 @@
 <w pos="nn">development</w>
 <w pos=",">,</w>
 <w pos="wrb">where</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">was</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="dt">an</w>
 <w pos="nn">associate</w>
 </coref>
 <w pos="in">for</w>
-<coref set-id="set_97">
+<coref set-id="set_110">
 <w pos="cd">three</w>
 <w pos="nns">years</w>
 </coref>
 <w pos="in">from</w>
-<coref set-id="set_20">
+<coref set-id="set_81">
 <w pos="cd">1993</w>
 </coref>
 <w pos="to">to</w>
-<coref set-id="set_76">
+<coref set-id="set_101">
 <w pos="cd">1996</w>
 </coref>
 <w pos=",">,</w>
 <w pos="rb">then</w>
 <w pos="in">of</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nn">counsel</w>
 </coref>
 <w pos="in">from</w>
@@ -2501,17 +2497,17 @@
 <w pos="cd">2004</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="prp$">His</w>
 </coref>
-<coref set-id="set_53">
+<coref set-id="set_34">
 <w pos="nn">law</w>
 </coref>
 <w pos="nn">license</w>
 <w pos="vbd">became</w>
 <w pos="jj">inactive</w>
 <w pos="in">in</w>
-<coref set-id="set_73">
+<coref set-id="set_12">
 <w pos="cd">2007</w>
 </coref>
 <w pos=".">.</w>
@@ -2521,7 +2517,7 @@
 <w pos="to">to</w>
 <w pos="cd">2002</w>
 <w pos=",">,</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">served</w>
@@ -2529,7 +2525,7 @@
 <w pos="dt">the</w>
 <w pos="nns">boards</w>
 <w pos="in">of</w>
-<coref set-id="set_112">
+<coref set-id="set_47">
 <w pos="nns">directors</w>
 </coref>
 <w pos="in">of</w>
@@ -2537,7 +2533,7 @@
 <w pos="nnp">Woods</w>
 <w pos="nnp">Fund</w>
 <w pos="in">of</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos=",">,</w>
@@ -2563,17 +2559,17 @@
 <w pos="nnp">Foundation</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">served</w>
 <w pos="in">on</w>
-<coref set-id="set_105">
+<coref set-id="set_85">
 <w pos="dt">the</w>
 <w pos="nn">board</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_112">
+<coref set-id="set_47">
 <w pos="nns">directors</w>
 </coref>
 <w pos="in">of</w>
@@ -2587,44 +2583,44 @@
 <w pos="cd">2002</w>
 <w pos=",">,</w>
 <w pos="in">as</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="vbg">founding</w>
 <w pos="nn">president</w>
 </coref>
 <w pos="cc">and</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nn">chairman</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_105">
+<coref set-id="set_85">
 <w pos="dt">the</w>
 <w pos="nn">board</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_112">
+<coref set-id="set_47">
 <w pos="nns">directors</w>
 </coref>
 <w pos="in">from</w>
-<coref set-id="set_74">
+<coref set-id="set_67">
 <w pos="cd">1995</w>
 </coref>
 <w pos="to">to</w>
 <w pos="cd">1999</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="vbn">elected</w>
 <w pos="to">to</w>
 <w pos="dt">the</w>
-<coref set-id="set_68">
+<coref set-id="set_8">
 <w pos="nnp">Illinois</w>
 <w pos="nnp">Senate</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_76">
+<coref set-id="set_101">
 <w pos="cd">1996</w>
 </coref>
 <w pos=",">,</w>
@@ -2634,11 +2630,11 @@
 <w pos="nnp">Alice</w>
 <w pos="nnp">Palmer</w>
 <w pos="in">as</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nnp">Senator</w>
 </coref>
 <w pos="in">from</w>
-<coref set-id="set_44">
+<coref set-id="set_31">
 <w pos="nnp">Illinois</w>
 </coref>
 <w pos="pos">'s</w>
@@ -2648,7 +2644,7 @@
 <w pos="wdt">which</w>
 <w pos="in">at</w>
 <w pos="dt">that</w>
-<coref set-id="set_86">
+<coref set-id="set_99">
 <w pos="nn">time</w>
 </coref>
 <w pos="vbd">spanned</w>
@@ -2674,14 +2670,14 @@
 <w pos="in">Once</w>
 <w pos="vbn">elected</w>
 <w pos=",">,</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">gained</w>
 <w pos="jj">bipartisan</w>
 <w pos="nn">support</w>
 <w pos="in">for</w>
-<coref set-id="set_59">
+<coref set-id="set_11">
 <w pos="nn">legislation</w>
 </coref>
 <w pos="wdt">that</w>
@@ -2693,11 +2689,11 @@
 <w pos="nns">laws</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">sponsored</w>
-<coref set-id="set_53">
+<coref set-id="set_34">
 <w pos="dt">a</w>
 <w pos="nn">law</w>
 </coref>
@@ -2735,11 +2731,11 @@
 <w pos="nnp">Administrative</w>
 <w pos="nnp">Rules</w>
 <w pos=",">,</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">supported</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nnp">Republican</w>
 <w pos="nnp">Governor</w>
 <w pos="nnp">Ryan</w>
@@ -2760,14 +2756,14 @@
 <w pos="nns">foreclosures</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="vbn">reelected</w>
 <w pos="to">to</w>
 <w pos="dt">the</w>
-<coref set-id="set_68">
+<coref set-id="set_8">
 <w pos="nnp">Illinois</w>
 <w pos="nnp">Senate</w>
 </coref>
@@ -2775,13 +2771,13 @@
 <w pos="cd">1998</w>
 <w pos=",">,</w>
 <w pos="vbg">defeating</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Republican</w>
 <w pos="nnp">Yesse</w>
 <w pos="nnp">Yehudah</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_62">
+<coref set-id="set_38">
 <w pos="dt">the</w>
 <w pos="jj">general</w>
 <w pos="nn">election</w>
@@ -2796,22 +2792,22 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">In</w>
-<coref set-id="set_38">
+<coref set-id="set_66">
 <w pos="cd">2000</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">lost</w>
 <w pos="dt">a</w>
 <w pos="jj">Democratic</w>
-<coref set-id="set_93">
+<coref set-id="set_26">
 <w pos="nn">primary</w>
 </coref>
 <w pos="nn">race</w>
 <w pos="in">for</w>
-<coref set-id="set_44">
+<coref set-id="set_31">
 <w pos="nnp">Illinois</w>
 </coref>
 <w pos="pos">'s</w>
@@ -2820,23 +2816,23 @@
 <w pos="nn">district</w>
 <w pos="in">in</w>
 <w pos="dt">the</w>
-<coref set-id="set_42">
-<coref set-id="set_71">
-<coref set-id="set_16">
+<coref set-id="set_113">
+<coref set-id="set_48">
+<coref set-id="set_27">
 <w pos="nnp">United</w>
 <w pos="nnp">States</w>
 </coref>
-<coref set-id="set_26">
+<coref set-id="set_29">
 <w pos="nnp">House</w>
 </coref>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_9">
+<coref set-id="set_100">
 <w pos="nnps">Representatives</w>
 </coref>
 </coref>
 <w pos="to">to</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="jj">four-term</w>
 <w pos="jj">incumbent</w>
 <w pos="nnp">Bobby</w>
@@ -2852,21 +2848,21 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">In</w>
-<coref set-id="set_118">
+<coref set-id="set_72">
 <w pos="nnp">January</w>
 <w pos="cd">2003</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">became</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nn">chairman</w>
 </coref>
 <w pos="in">of</w>
 <w pos="dt">the</w>
-<coref set-id="set_68">
+<coref set-id="set_8">
 <w pos="nnp">Illinois</w>
 <w pos="nnp">Senate</w>
 <w pos="pos">'s</w>
@@ -2887,13 +2883,13 @@
 <w pos="nn">minority</w>
 <w pos=",">,</w>
 <w pos="vbd">regained</w>
-<coref set-id="set_36">
+<coref set-id="set_40">
 <w pos="dt">a</w>
 <w pos="nn">majority</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">sponsored</w>
@@ -2911,30 +2907,30 @@
 <w pos="nn">profiling</w>
 <w pos="in">by</w>
 <w pos="vbg">requiring</w>
-<coref set-id="set_23">
+<coref set-id="set_15">
 <w pos="nns">police</w>
 </coref>
 <w pos="to">to</w>
 <w pos="vb">record</w>
-<coref set-id="set_90">
+<coref set-id="set_20">
 <w pos="dt">the</w>
 <w pos="nn">race</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_67">
+<coref set-id="set_117">
 <w pos="nns">drivers</w>
 </coref>
-<coref set-id="set_67">
+<coref set-id="set_117">
 <w pos="prp">they</w>
 </coref>
 <w pos="vbd">detained</w>
 <w pos=",">,</w>
 <w pos="cc">and</w>
-<coref set-id="set_59">
+<coref set-id="set_11">
 <w pos="nn">legislation</w>
 </coref>
 <w pos="vbg">making</w>
-<coref set-id="set_44">
+<coref set-id="set_31">
 <w pos="nnp">Illinois</w>
 </coref>
 <w pos="dt">the</w>
@@ -2949,56 +2945,56 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">During</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
 <w pos="cd">2004</w>
 <w pos="jj">general</w>
-<coref set-id="set_99">
+<coref set-id="set_42">
 <w pos="nn">election</w>
 </coref>
 <w pos="nn">campaign</w>
 <w pos="in">for</w>
-<coref set-id="set_33">
+<coref set-id="set_77">
 <w pos="nnp">U.S.</w>
 <w pos="nnp">Senate</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_23">
+<coref set-id="set_15">
 <w pos="nn">police</w>
 </coref>
 <w pos="nns">representatives</w>
 <w pos="vbd">credited</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="in">for</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">active</w>
 <w pos="nn">engagement</w>
 <w pos="in">with</w>
-<coref set-id="set_23">
+<coref set-id="set_15">
 <w pos="nn">police</w>
 </coref>
 <w pos="nns">organizations</w>
 <w pos="in">in</w>
 <w pos="vbg">enacting</w>
-<coref set-id="set_115">
+<coref set-id="set_65">
 <w pos="nn">death</w>
 </coref>
 <w pos="nn">penalty</w>
 <w pos="nns">reforms</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">resigned</w>
 <w pos="in">from</w>
 <w pos="dt">the</w>
-<coref set-id="set_68">
+<coref set-id="set_8">
 <w pos="nnp">Illinois</w>
 <w pos="nnp">Senate</w>
 </coref>
@@ -3006,15 +3002,15 @@
 <w pos="nnp">November</w>
 <w pos="cd">2004</w>
 <w pos="vbg">following</w>
-<coref set-id="set_92">
-<coref set-id="set_4">
+<coref set-id="set_108">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">election</w>
 </coref>
 <w pos="to">to</w>
 <w pos="dt">the</w>
-<coref set-id="set_33">
+<coref set-id="set_77">
 <w pos="nnp">U.S.</w>
 <w pos="nnp">Senate</w>
 </coref>
@@ -3024,7 +3020,7 @@
 <w pos="nnp">May</w>
 <w pos="cd">2002</w>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">commissioned</w>
@@ -3032,29 +3028,29 @@
 <w pos="nn">poll</w>
 <w pos="to">to</w>
 <w pos="vb">assess</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nns">prospects</w>
 <w pos="in">in</w>
 <w pos="dt">a</w>
 <w pos="cd">2004</w>
-<coref set-id="set_33">
-<coref set-id="set_16">
+<coref set-id="set_77">
+<coref set-id="set_27">
 <w pos="nnp">U.S.</w>
 </coref>
-<coref set-id="set_79">
+<coref set-id="set_25">
 <w pos="nnp">Senate</w>
 </coref>
 </coref>
 <w pos="nn">race</w>
 <w pos=":">;</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">created</w>
 <w pos="dt">a</w>
-<coref set-id="set_55">
+<coref set-id="set_109">
 <w pos="nn">campaign</w>
 </coref>
 <w pos="nn">committee</w>
@@ -3066,7 +3062,7 @@
 <w pos="cc">and</w>
 <w pos="vbd">lined</w>
 <w pos="rp">up</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="jj">political</w>
 <coref set-id="set_88">
 <w pos="nns">media</w>
@@ -3080,36 +3076,36 @@
 <w pos="cd">2002</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="rb">formally</w>
 <w pos="vbd">announced</w>
-<coref set-id="set_48">
-<coref set-id="set_4">
+<coref set-id="set_98">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">candidacy</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_118">
+<coref set-id="set_72">
 <w pos="nnp">January</w>
 <w pos="cd">2003</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">was</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="dt">an</w>
 <w pos="jj">early</w>
 <w pos="nn">opponent</w>
 </coref>
 <w pos="in">of</w>
 <w pos="dt">the</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">George</w>
 <w pos="nnp">W.</w>
 <w pos="nnp">Bush</w>
@@ -3119,7 +3115,7 @@
 <w pos="cd">2003</w>
 <w pos="nn">invasion</w>
 <w pos="in">of</w>
-<coref set-id="set_61">
+<coref set-id="set_92">
 <w pos="nnp">Iraq</w>
 </coref>
 <w pos=".">.</w>
@@ -3132,7 +3128,7 @@
 <w pos=",">,</w>
 <w pos="dt">the</w>
 <w pos="nn">day</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">President</w>
 <w pos="nnp">Bush</w>
 </coref>
@@ -3144,22 +3140,22 @@
 <w pos="jj">joint</w>
 <w pos="nn">resolution</w>
 <w pos="vbg">authorizing</w>
-<coref set-id="set_21">
+<coref set-id="set_44">
 <w pos="dt">the</w>
-<coref set-id="set_61">
+<coref set-id="set_92">
 <w pos="nnp">Iraq</w>
 </coref>
 <w pos="nnp">War</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">addressed</w>
 <w pos="dt">the</w>
 <w pos="jj">first</w>
 <w pos="jj">high-profile</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos="nnp">anti-Iraq</w>
@@ -3170,13 +3166,13 @@
 <w pos="vbd">spoke</w>
 <w pos="rp">out</w>
 <w pos="in">against</w>
-<coref set-id="set_95">
+<coref set-id="set_107">
 <w pos="dt">the</w>
 <w pos="nn">war</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">addressed</w>
@@ -3188,7 +3184,7 @@
 <w pos="cd">2003</w>
 <w pos="cc">and</w>
 <w pos="vbd">told</w>
-<coref set-id="set_103">
+<coref set-id="set_6">
 <w pos="dt">the</w>
 <w pos="nn">crowd</w>
 </coref>
@@ -3201,7 +3197,7 @@
 <w pos="&quot;">"</w>
 <w pos="to">to</w>
 <w pos="vb">stop</w>
-<coref set-id="set_95">
+<coref set-id="set_107">
 <w pos="dt">the</w>
 <w pos="nn">war</w>
 </coref>
@@ -3209,8 +3205,8 @@
 </s><s>
 <w pos="nns">Decisions</w>
 <w pos="in">by</w>
-<coref set-id="set_4">
-<coref set-id="set_108">
+<coref set-id="set_1">
+<coref set-id="set_56">
 <w pos="jj">Republican</w>
 </coref>
 <w pos="jj">incumbent</w>
@@ -3218,10 +3214,10 @@
 <w pos="nnp">Fitzgerald</w>
 </coref>
 <w pos="cc">and</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
-<coref set-id="set_94">
+<coref set-id="set_32">
 <w pos="jj">Democratic</w>
 </coref>
 <w pos="nn">predecessor</w>
@@ -3232,7 +3228,7 @@
 <w pos="rb">not</w>
 <w pos="vb">participate</w>
 <w pos="in">in</w>
-<coref set-id="set_99">
+<coref set-id="set_42">
 <w pos="dt">the</w>
 <w pos="nn">election</w>
 </coref>
@@ -3250,7 +3246,7 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">In</w>
-<coref set-id="set_99">
+<coref set-id="set_42">
 <w pos="dt">the</w>
 <w pos="nnp">March</w>
 <w pos="cd">2004</w>
@@ -3258,7 +3254,7 @@
 <w pos="nn">election</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">won</w>
@@ -3268,7 +3264,7 @@
 <w pos="nn">landslidewhich</w>
 <w pos="rb">overnight</w>
 <w pos="vbd">made</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">him</w>
 </coref>
 <w pos="dt">a</w>
@@ -3293,17 +3289,17 @@
 <w pos="dt">the</w>
 <w pos="nn">reissue</w>
 <w pos="in">of</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">memoir</w>
 <w pos=",">,</w>
-<coref set-id="set_75">
+<coref set-id="set_94">
 <w pos="nnp">Dreams</w>
 </coref>
 <w pos="in">from</w>
-<coref set-id="set_4">
-<coref set-id="set_30">
+<coref set-id="set_1">
+<coref set-id="set_19">
 <w pos="prp$">My</w>
 </coref>
 <w pos="nnp">Father</w>
@@ -3314,7 +3310,7 @@
 <w pos="nnp">July</w>
 <w pos="cd">2004</w>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">delivered</w>
@@ -3334,7 +3330,7 @@
 <w pos="nns">viewers</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp$">His</w>
 </coref>
 <w pos="nn">speech</w>
@@ -3343,32 +3339,32 @@
 <w pos="vbn">received</w>
 <w pos="cc">and</w>
 <w pos="vbd">elevated</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">status</w>
 <w pos="in">within</w>
 <w pos="dt">the</w>
-<coref set-id="set_94">
+<coref set-id="set_32">
 <w pos="nnp">Democratic</w>
 <w pos="nnp">Party</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="pos">'s</w>
 <w pos="vbn">expected</w>
 <w pos="nn">opponent</w>
 <w pos="in">in</w>
-<coref set-id="set_62">
+<coref set-id="set_38">
 <w pos="dt">the</w>
 <w pos="jj">general</w>
 <w pos="nn">election</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="jj">Republican</w>
 <w pos="jj">primary</w>
 <w pos="nn">winner</w>
@@ -3378,7 +3374,7 @@
 <w pos=",">,</w>
 <w pos="vbd">withdrew</w>
 <w pos="in">from</w>
-<coref set-id="set_90">
+<coref set-id="set_20">
 <w pos="dt">the</w>
 <w pos="nn">race</w>
 </coref>
@@ -3395,13 +3391,13 @@
 <w pos="nnp">Keyes</w>
 <w pos="vbd">accepted</w>
 <w pos="dt">the</w>
-<coref set-id="set_108">
+<coref set-id="set_56">
 <w pos="jj">Republican</w>
 </coref>
 <w pos="nn">nomination</w>
 <w pos="to">to</w>
 <w pos="vb">replace</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Ryan</w>
 </coref>
 <w pos=".">.</w>
@@ -3413,7 +3409,7 @@
 <w pos="jj">general</w>
 <w pos="nn">election</w>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">won</w>
@@ -3424,14 +3420,14 @@
 <w pos="nn">vote</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="vbn">sworn</w>
 <w pos="rp">in</w>
 <w pos="in">as</w>
-<coref set-id="set_6">
+<coref set-id="set_3">
 <w pos="dt">a</w>
 <w pos="nn">senator</w>
 </coref>
@@ -3442,10 +3438,10 @@
 <w pos="cd">2005</w>
 <w pos=",">,</w>
 <w pos="vbg">becoming</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="dt">the</w>
 <w pos="jj">only</w>
-<coref set-id="set_79">
+<coref set-id="set_25">
 <w pos="nnp">Senate</w>
 </coref>
 <w pos="nn">member</w>
@@ -3457,11 +3453,11 @@
 <w pos="nnp">Caucus.CQ</w>
 <w pos="nnp">Weekly</w>
 <w pos="vbd">characterized</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">him</w>
 </coref>
 <w pos="in">as</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="dt">a</w>
 <w pos="jj">"loyal</w>
 <w pos="nnp">Democrat</w>
@@ -3472,7 +3468,7 @@
 <w pos="nn">analysis</w>
 <w pos="in">of</w>
 <w pos="dt">all</w>
-<coref set-id="set_79">
+<coref set-id="set_25">
 <w pos="nnp">Senate</w>
 </coref>
 <w pos="nns">votes</w>
@@ -3480,7 +3476,7 @@
 <w pos="cd">20052007</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">announced</w>
@@ -3491,15 +3487,15 @@
 <w pos="cd">2008</w>
 <w pos=",">,</w>
 <w pos="in">that</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">he</w>
 </coref>
 <w pos="md">would</w>
 <w pos="vb">resign</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
-<coref set-id="set_79">
+<coref set-id="set_25">
 <w pos="nnp">Senate</w>
 </coref>
 <w pos="nn">seat</w>
@@ -3520,19 +3516,19 @@
 <w pos="to">to</w>
 <w pos="vb">focus</w>
 <w pos="in">on</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">transition</w>
 <w pos="nn">period</w>
 <w pos="in">for</w>
-<coref set-id="set_41">
+<coref set-id="set_87">
 <w pos="dt">the</w>
 <w pos="nn">presidency</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">cosponsored</w>
@@ -3540,14 +3536,14 @@
 <w pos="nnp">Secure</w>
 <w pos="nnp">America</w>
 <w pos="cc">and</w>
-<coref set-id="set_22">
+<coref set-id="set_84">
 <w pos="nnp">Orderly</w>
 <w pos="nnp">Immigration</w>
 <w pos="nnp">Act</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">introduced</w>
@@ -3555,12 +3551,12 @@
 <w pos="nns">initiatives</w>
 <w pos="wdt">that</w>
 <w pos="vbd">bore</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">name</w>
 <w pos=":">:</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">LugarObama</w>
 </coref>
 <w pos=",">,</w>
@@ -3577,7 +3573,7 @@
 <w pos="nns">weapons</w>
 <w pos=":">;</w>
 <w pos="cc">and</w>
-<coref set-id="set_22">
+<coref set-id="set_84">
 <w pos="dt">the</w>
 <w pos="nnp">Federal</w>
 <w pos="nnp">Funding</w>
@@ -3614,19 +3610,19 @@
 <w pos="nnp">Senator</w>
 <w pos="nnp">Obamaalong</w>
 <w pos="in">with</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Senators</w>
 <w pos="nnp">Tom</w>
 <w pos="nnp">Carper</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Tom</w>
 <w pos="nnp">Coburn</w>
 </coref>
 <w pos=",">,</w>
 <w pos="cc">and</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">John</w>
 <w pos="vbd">McCainintroduced</w>
 </coref>
@@ -3642,16 +3638,16 @@
 <w pos="nnp">Spending</w>
 <w pos="nnp">Act</w>
 <w pos="in">of</w>
-<coref set-id="set_18">
+<coref set-id="set_4">
 <w pos="cd">2008</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">sponsored</w>
-<coref set-id="set_59">
+<coref set-id="set_11">
 <w pos="nn">legislation</w>
 </coref>
 <w pos="wdt">that</w>
@@ -3663,7 +3659,7 @@
 <w pos="nns">owners</w>
 <w pos="to">to</w>
 <w pos="vb">notify</w>
-<coref set-id="set_87">
+<coref set-id="set_75">
 <w pos="nn">state</w>
 </coref>
 <w pos="cc">and</w>
@@ -3674,7 +3670,7 @@
 <w pos="nns">leaks</w>
 <w pos=",">,</w>
 <w pos="cc">but</w>
-<coref set-id="set_109">
+<coref set-id="set_103">
 <w pos="dt">the</w>
 <w pos="nn">bill</w>
 </coref>
@@ -3683,7 +3679,7 @@
 <w pos="vb">pass</w>
 <w pos="in">in</w>
 <w pos="dt">the</w>
-<coref set-id="set_106">
+<coref set-id="set_71">
 <w pos="jj">full</w>
 <w pos="nnp">Senate</w>
 </coref>
@@ -3692,7 +3688,7 @@
 <w pos="rb">heavily</w>
 <w pos="vbn">modified</w>
 <w pos="in">in</w>
-<coref set-id="set_82">
+<coref set-id="set_86">
 <w pos="nn">committee</w>
 </coref>
 <w pos=".">.</w>
@@ -3701,7 +3697,7 @@
 <w pos="nn">tort</w>
 <w pos="nn">reform</w>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">voted</w>
@@ -3714,14 +3710,14 @@
 <w pos="in">of</w>
 <w pos="cd">2005</w>
 <w pos="cc">and</w>
-<coref set-id="set_80">
+<coref set-id="set_60">
 <w pos="dt">the</w>
 <w pos="nnp">FISA</w>
 <w pos="nnp">Amendments</w>
 <w pos="nnp">Act</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_18">
+<coref set-id="set_4">
 <w pos="cd">2008</w>
 </coref>
 <w pos=",">,</w>
@@ -3743,25 +3739,25 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">In</w>
-<coref set-id="set_65">
+<coref set-id="set_7">
 <w pos="nnp">December</w>
 <w pos="cd">2006</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">President</w>
 <w pos="nnp">Bush</w>
 </coref>
 <w pos="vbd">signed</w>
 <w pos="in">into</w>
-<coref set-id="set_53">
+<coref set-id="set_34">
 <w pos="nn">law</w>
 </coref>
 <w pos="dt">the</w>
 <w pos="jj">Democratic</w>
 <w pos="nnp">Republic</w>
 <w pos="in">of</w>
-<coref set-id="set_80">
+<coref set-id="set_60">
 <w pos="dt">the</w>
 <w pos="nnp">Congo</w>
 <w pos="nnp">Relief</w>
@@ -3783,11 +3779,11 @@
 <w pos="vb">be</w>
 <w pos="vbn">enacted</w>
 <w pos="in">with</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="in">as</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp$">its</w>
 </coref>
 <w pos="jj">primary</w>
@@ -3795,12 +3791,12 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">In</w>
-<coref set-id="set_114">
+<coref set-id="set_54">
 <w pos="nnp">January</w>
 <w pos="cd">2007</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="cc">and</w>
@@ -3812,12 +3808,12 @@
 <w pos="nn">jet</w>
 <w pos="nn">provision</w>
 <w pos="to">to</w>
-<coref set-id="set_80">
+<coref set-id="set_60">
 <w pos="dt">the</w>
 <w pos="nnp">Honest</w>
 <w pos="nnp">Leadership</w>
 <w pos="cc">and</w>
-<coref set-id="set_15">
+<coref set-id="set_41">
 <w pos="nnp">Open</w>
 <w pos="nnp">Government</w>
 <w pos="nnp">Act</w>
@@ -3828,7 +3824,7 @@
 <w pos="vbd">was</w>
 <w pos="vbn">signed</w>
 <w pos="in">into</w>
-<coref set-id="set_53">
+<coref set-id="set_34">
 <w pos="nn">law</w>
 </coref>
 <w pos="in">in</w>
@@ -3836,7 +3832,7 @@
 <w pos="cd">2007</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="rb">also</w>
@@ -3849,7 +3845,7 @@
 <w pos="nnp">Prevention</w>
 <w pos="nnp">Act</w>
 <w pos=",">,</w>
-<coref set-id="set_109">
+<coref set-id="set_103">
 <w pos="dt">a</w>
 <w pos="nn">bill</w>
 </coref>
@@ -3862,9 +3858,9 @@
 <w pos="nns">elections</w>
 <w pos=",">,</w>
 <w pos="cc">and</w>
-<coref set-id="set_15">
+<coref set-id="set_41">
 <w pos="dt">the</w>
-<coref set-id="set_61">
+<coref set-id="set_92">
 <w pos="nnp">Iraq</w>
 </coref>
 <w pos="nnp">War</w>
@@ -3872,7 +3868,7 @@
 <w pos="nnp">Act</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_73">
+<coref set-id="set_12">
 <w pos="cd">2007</w>
 </coref>
 <w pos=",">,</w>
@@ -3882,27 +3878,27 @@
 <w pos="vbd">was</w>
 <w pos="vbn">signed</w>
 <w pos="in">into</w>
-<coref set-id="set_53">
+<coref set-id="set_34">
 <w pos="nn">law</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
 <w pos="rb">Later</w>
 <w pos="in">in</w>
-<coref set-id="set_73">
+<coref set-id="set_12">
 <w pos="cd">2007</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">sponsored</w>
-<coref set-id="set_69">
+<coref set-id="set_23">
 <w pos="dt">an</w>
 <w pos="nn">amendment</w>
 </coref>
 <w pos="to">to</w>
-<coref set-id="set_15">
+<coref set-id="set_41">
 <w pos="dt">the</w>
 <w pos="nnp">Defense</w>
 <w pos="nnp">Authorization</w>
@@ -3917,13 +3913,13 @@
 <w pos="nns">discharges</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_69">
+<coref set-id="set_23">
 <w pos="dt">This</w>
 <w pos="nn">amendment</w>
 </coref>
 <w pos="vbd">passed</w>
 <w pos="dt">the</w>
-<coref set-id="set_106">
+<coref set-id="set_71">
 <w pos="jj">full</w>
 <w pos="nnp">Senate</w>
 </coref>
@@ -3931,17 +3927,17 @@
 <w pos="dt">the</w>
 <w pos="nn">spring</w>
 <w pos="in">of</w>
-<coref set-id="set_18">
+<coref set-id="set_4">
 <w pos="cd">2008</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">sponsored</w>
 <w pos="dt">the</w>
-<coref set-id="set_54">
+<coref set-id="set_79">
 <w pos="nnp">Iran</w>
 </coref>
 <w pos="nnp">Sanctions</w>
@@ -3950,13 +3946,13 @@
 <w pos="vbg">supporting</w>
 <w pos="nn">divestment</w>
 <w pos="in">of</w>
-<coref set-id="set_87">
+<coref set-id="set_75">
 <w pos="nn">state</w>
 </coref>
 <w pos="nn">pension</w>
 <w pos="nns">funds</w>
 <w pos="in">from</w>
-<coref set-id="set_54">
+<coref set-id="set_79">
 <w pos="nnp">Iran</w>
 </coref>
 <w pos="pos">'s</w>
@@ -3969,7 +3965,7 @@
 <w pos="vbz">has</w>
 <w pos="rb">not</w>
 <w pos="vbn">passed</w>
-<coref set-id="set_82">
+<coref set-id="set_86">
 <w pos="nn">committee</w>
 </coref>
 <w pos=":">;</w>
@@ -3984,20 +3980,20 @@
 <w pos="nn">terrorism</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="rb">also</w>
 <w pos="vbd">sponsored</w>
 <w pos="dt">a</w>
-<coref set-id="set_79">
+<coref set-id="set_25">
 <w pos="nnp">Senate</w>
 </coref>
 <w pos="nn">amendment</w>
 <w pos="to">to</w>
 <w pos="dt">the</w>
 <w pos="nnp">State</w>
-<coref set-id="set_52">
+<coref set-id="set_106">
 <w pos="nnp">Children</w>
 </coref>
 <w pos="pos">'s</w>
@@ -4006,17 +4002,17 @@
 <w pos="nnp">Program</w>
 <w pos=",">,</w>
 <w pos="vbg">providing</w>
-<coref set-id="set_8">
+<coref set-id="set_50">
 <w pos="cd">one</w>
 <w pos="nn">year</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_35">
+<coref set-id="set_115">
 <w pos="nn">job</w>
 </coref>
 <w pos="nn">protection</w>
 <w pos="in">for</w>
-<coref set-id="set_25">
+<coref set-id="set_62">
 <w pos="nn">family</w>
 </coref>
 <w pos="nns">members</w>
@@ -4031,7 +4027,7 @@
 <w pos="nns">assignments</w>
 <w pos="in">on</w>
 <w pos="dt">the</w>
-<coref set-id="set_79">
+<coref set-id="set_25">
 <w pos="nnp">Senate</w>
 </coref>
 <w pos="nns">Committees</w>
@@ -4039,8 +4035,8 @@
 <w pos="nnp">Foreign</w>
 <w pos="nnps">Relations</w>
 <w pos=",">,</w>
-<coref set-id="set_58">
-<coref set-id="set_56">
+<coref set-id="set_78">
+<coref set-id="set_33">
 <w pos="nnp">Environment</w>
 </coref>
 <w pos="cc">and</w>
@@ -4053,25 +4049,25 @@
 <w pos="&quot;">'</w>
 <w pos="nnp">Affairs</w>
 <w pos="in">through</w>
-<coref set-id="set_65">
+<coref set-id="set_7">
 <w pos="nnp">December</w>
 <w pos="cd">2006</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
 <w pos="in">In</w>
-<coref set-id="set_114">
+<coref set-id="set_54">
 <w pos="nnp">January</w>
 <w pos="cd">2007</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">left</w>
-<coref set-id="set_56">
+<coref set-id="set_33">
 <w pos="dt">the</w>
-<coref set-id="set_58">
+<coref set-id="set_78">
 <w pos="nnp">Environment</w>
 </coref>
 </coref>
@@ -4100,17 +4096,17 @@
 <w pos="nnp">Affairs</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">He</w>
 </coref>
 <w pos="rb">also</w>
 <w pos="vbd">became</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nn">Chairman</w>
 </coref>
 <w pos="in">of</w>
 <w pos="dt">the</w>
-<coref set-id="set_79">
+<coref set-id="set_25">
 <w pos="nnp">Senate</w>
 </coref>
 <w pos="pos">'s</w>
@@ -4121,20 +4117,20 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">As</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="dt">a</w>
 <w pos="nn">member</w>
 </coref>
 <w pos="in">of</w>
 <w pos="dt">the</w>
-<coref set-id="set_79">
+<coref set-id="set_25">
 <w pos="nnp">Senate</w>
 <w pos="nnp">Foreign</w>
 <w pos="nnp">Relations</w>
 <w pos="nnp">Committee</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">made</w>
@@ -4154,21 +4150,21 @@
 <w pos="nnp">Africa</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">met</w>
 <w pos="in">with</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Mahmoud</w>
 <w pos="nnp">Abbas</w>
 </coref>
 <w pos="in">before</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nns">Abbas</w>
 </coref>
 <w pos="vbd">became</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">President</w>
 </coref>
 <w pos="in">of</w>
@@ -4179,12 +4175,12 @@
 <w pos=",">,</w>
 <w pos="cc">and</w>
 <w pos="vbd">gave</w>
-<coref set-id="set_70">
+<coref set-id="set_35">
 <w pos="dt">a</w>
 <w pos="nn">speech</w>
 </coref>
 <w pos="in">at</w>
-<coref set-id="set_32">
+<coref set-id="set_18">
 <w pos="dt">the</w>
 <w pos="nnp">University</w>
 </coref>
@@ -4192,14 +4188,14 @@
 <w pos="nnp">Nairobi</w>
 <w pos="in">in</w>
 <w pos="wdt">which</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">condemned</w>
 <w pos="nn">corruption</w>
 <w pos="in">within</w>
 <w pos="dt">the</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Kenyan</w>
 </coref>
 <w pos="nn">government</w>
@@ -4211,23 +4207,23 @@
 <w pos=",">,</w>
 <w pos="cd">2007</w>
 <w pos=",">,</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">announced</w>
-<coref set-id="set_48">
-<coref set-id="set_4">
+<coref set-id="set_98">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">candidacy</w>
 </coref>
 <w pos="in">for</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">President</w>
 </coref>
 <w pos="in">of</w>
 <w pos="dt">the</w>
-<coref set-id="set_16">
+<coref set-id="set_27">
 <w pos="nnp">United</w>
 <w pos="nnps">States</w>
 </coref>
@@ -4242,7 +4238,7 @@
 <w pos="in">in</w>
 <w pos="nnp">Springfield</w>
 <w pos=",">,</w>
-<coref set-id="set_44">
+<coref set-id="set_31">
 <w pos="nnp">Illinois</w>
 </coref>
 <w pos=".">.</w>
@@ -4250,7 +4246,7 @@
 <w pos="dt">The</w>
 <w pos="nn">choice</w>
 <w pos="in">of</w>
-<coref set-id="set_57">
+<coref set-id="set_76">
 <w pos="dt">the</w>
 <w pos="nn">announcement</w>
 <w pos="nn">site</w>
@@ -4260,18 +4256,18 @@
 <w pos="in">as</w>
 <w pos="jj">symbolic</w>
 <w pos="in">because</w>
-<coref set-id="set_57">
+<coref set-id="set_76">
 <w pos="prp">it</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="rb">also</w>
 <w pos="wrb">where</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Abraham</w>
 <w pos="nnp">Lincoln</w>
 </coref>
 <w pos="vbd">delivered</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="prp$">his</w>
 </coref>
 <w pos="jj">historic</w>
@@ -4284,7 +4280,7 @@
 <w pos="cd">1858</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">emphasized</w>
@@ -4292,9 +4288,9 @@
 <w pos="in">of</w>
 <w pos="rb">rapidly</w>
 <w pos="vbg">ending</w>
-<coref set-id="set_21">
+<coref set-id="set_44">
 <w pos="dt">the</w>
-<coref set-id="set_61">
+<coref set-id="set_92">
 <w pos="nnp">Iraq</w>
 </coref>
 <w pos="nnp">War</w>
@@ -4311,7 +4307,7 @@
 <w pos="nn">care</w>
 <w pos=",">,</w>
 <w pos="in">in</w>
-<coref set-id="set_55">
+<coref set-id="set_109">
 <w pos="dt">a</w>
 <w pos="nn">campaign</w>
 </coref>
@@ -4334,7 +4330,7 @@
 <w pos="nns">candidates</w>
 <w pos="vbd">entered</w>
 <w pos="dt">the</w>
-<coref set-id="set_94">
+<coref set-id="set_32">
 <w pos="nnp">Democratic</w>
 <w pos="nnp">Party</w>
 </coref>
@@ -4342,7 +4338,7 @@
 <w pos="nns">primaries</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_37">
+<coref set-id="set_46">
 <w pos="dt">The</w>
 <w pos="nn">field</w>
 </coref>
@@ -4351,11 +4347,11 @@
 <w pos="dt">a</w>
 <w pos="nn">duel</w>
 <w pos="in">between</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="cc">and</w>
-<coref set-id="set_110">
+<coref set-id="set_14">
 <w pos="nnp">Senator</w>
 <w pos="nnp">Hillary</w>
 <w pos="nnp">Rodham</w>
@@ -4366,21 +4362,21 @@
 <w pos="nns">contests</w>
 <w pos=",">,</w>
 <w pos="in">with</w>
-<coref set-id="set_90">
+<coref set-id="set_20">
 <w pos="dt">the</w>
 <w pos="nn">race</w>
 </coref>
 <w pos="vbg">remaining</w>
 <w pos="rb">close</w>
 <w pos="in">throughout</w>
-<coref set-id="set_104">
+<coref set-id="set_111">
 <w pos="dt">the</w>
 <w pos="jj">primary</w>
 <w pos="nn">process</w>
 </coref>
 <w pos="cc">but</w>
 <w pos="in">with</w>
-<coref set-id="set_4">
+<coref set-id="set_1">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbg">gaining</w>
@@ -4409,7 +4405,7 @@
 <w pos="jjr">better</w>
 <w pos="nn">exploitation</w>
 <w pos="in">of</w>
-<coref set-id="set_14">
+<coref set-id="set_45">
 <w pos="nn">delegate</w>
 </coref>
 <w pos="nn">allocation</w>
@@ -4422,17 +4418,17 @@
 <w pos=",">,</w>
 <w pos="cd">2008</w>
 <w pos=",">,</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="nnp">Clinton</w>
 </coref>
 <w pos="vbd">ended</w>
-<coref set-id="set_14">
+<coref set-id="set_45">
 <w pos="prp$">her</w>
 </coref>
 <w pos="nn">campaign</w>
 <w pos="cc">and</w>
 <w pos="vbd">endorsed</w>
-<coref set-id="set_14">
+<coref set-id="set_45">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos=".">.</w>
@@ -4441,24 +4437,24 @@
 <w pos="nnp">August</w>
 <w pos="cd">23</w>
 <w pos=",">,</w>
-<coref set-id="set_14">
+<coref set-id="set_45">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">announced</w>
-<coref set-id="set_14">
+<coref set-id="set_45">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">selection</w>
 <w pos="in">of</w>
-<coref set-id="set_14">
+<coref set-id="set_45">
 <w pos="nnp">Delaware</w>
 <w pos="nnp">Senator</w>
 <w pos="nnp">Joe</w>
 <w pos="nnp">Biden</w>
 </coref>
 <w pos="in">as</w>
-<coref set-id="set_14">
-<coref set-id="set_14">
+<coref set-id="set_45">
+<coref set-id="set_45">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">vice</w>
@@ -4468,31 +4464,31 @@
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_14">
+<coref set-id="set_45">
 <w pos="nnp">Biden</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="vbn">selected</w>
 <w pos="in">from</w>
-<coref set-id="set_37">
+<coref set-id="set_46">
 <w pos="dt">a</w>
 <w pos="nn">field</w>
 </coref>
 <w pos="vbn">speculated</w>
 <w pos="to">to</w>
 <w pos="vb">include</w>
-<coref set-id="set_14">
+<coref set-id="set_45">
 <w pos="jj">former</w>
-<coref set-id="set_84">
+<coref set-id="set_91">
 <w pos="nnp">Indiana</w>
 </coref>
 <w pos="nnp">Governor</w>
 </coref>
 <w pos="cc">and</w>
-<coref set-id="set_14">
-<coref set-id="set_14">
+<coref set-id="set_45">
+<coref set-id="set_45">
 <w pos="nnp">Senator</w>
-<coref set-id="set_14">
+<coref set-id="set_45">
 <w pos="nnp">Evan</w>
 <w pos="nnp">Bayh</w>
 </coref>
@@ -4507,7 +4503,7 @@
 </s><s>
 <w pos="in">At</w>
 <w pos="dt">the</w>
-<coref set-id="set_94">
+<coref set-id="set_32">
 <w pos="jj">Democratic</w>
 <w pos="nnp">National</w>
 <w pos="nnp">Convention</w>
@@ -4515,7 +4511,7 @@
 <w pos="in">in</w>
 <w pos="nnp">Denver</w>
 <w pos=",">,</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="nnp">Colorado</w>
 <w pos=",">,</w>
 <w pos="nnp">Hillary</w>
@@ -4523,42 +4519,42 @@
 </coref>
 <w pos="vbd">called</w>
 <w pos="in">for</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="prp$">her</w>
 </coref>
 <w pos="nns">supporters</w>
 <w pos="to">to</w>
 <w pos="vb">endorse</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos=",">,</w>
 <w pos="cc">and</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="prp">she</w>
 </coref>
 <w pos="cc">and</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="nnp">Bill</w>
 <w pos="nnp">Clinton</w>
 </coref>
 <w pos="vbd">gave</w>
-<coref set-id="set_11">
+<coref set-id="set_39">
 <w pos="nn">convention</w>
 </coref>
 <w pos="nns">speeches</w>
 <w pos="in">in</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">support</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">delivered</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">acceptance</w>
@@ -4569,7 +4565,7 @@
 <w pos="dt">the</w>
 <w pos="nn">center</w>
 <w pos="wrb">where</w>
-<coref set-id="set_11">
+<coref set-id="set_39">
 <w pos="dt">the</w>
 <w pos="jj">Democratic</w>
 <w pos="nnp">National</w>
@@ -4586,7 +4582,7 @@
 <w pos="nnp">Mile</w>
 <w pos="nnp">High</w>
 <w pos="to">to</w>
-<coref set-id="set_103">
+<coref set-id="set_6">
 <w pos="dt">a</w>
 <w pos="nn">crowd</w>
 </coref>
@@ -4594,7 +4590,7 @@
 <w pos="in">over</w>
 <w pos="cd">75,000</w>
 <w pos=":">;</w>
-<coref set-id="set_70">
+<coref set-id="set_35">
 <w pos="dt">the</w>
 <w pos="nn">speech</w>
 </coref>
@@ -4609,19 +4605,19 @@
 </s><s>
 <w pos="in">During</w>
 <w pos="dt">both</w>
-<coref set-id="set_104">
+<coref set-id="set_111">
 <w pos="dt">the</w>
 <w pos="jj">primary</w>
 <w pos="nn">process</w>
 </coref>
 <w pos="cc">and</w>
-<coref set-id="set_62">
+<coref set-id="set_38">
 <w pos="dt">the</w>
 <w pos="jj">general</w>
 <w pos="nn">election</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="pos">'s</w>
@@ -4646,11 +4642,11 @@
 <w pos=",">,</w>
 <w pos="cd">2008</w>
 <w pos=",">,</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">became</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="dt">the</w>
 <w pos="jj">first</w>
 <w pos="jj">major-party</w>
@@ -4663,7 +4659,7 @@
 <w pos="jj">public</w>
 <w pos="nn">financing</w>
 <w pos="in">in</w>
-<coref set-id="set_62">
+<coref set-id="set_38">
 <w pos="dt">the</w>
 <w pos="jj">general</w>
 <w pos="nn">election</w>
@@ -4677,16 +4673,16 @@
 <w pos="cd">1976</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">John</w>
 <w pos="nnp">McCain</w>
 </coref>
 <w pos="vbd">was</w>
 <w pos="vbn">nominated</w>
 <w pos="in">as</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="dt">the</w>
-<coref set-id="set_108">
+<coref set-id="set_56">
 <w pos="jj">Republican</w>
 </coref>
 <w pos="nn">candidate</w>
@@ -4707,16 +4703,16 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">On</w>
-<coref set-id="set_47">
+<coref set-id="set_52">
 <w pos="nnp">November</w>
 <w pos="cd">4</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">won</w>
-<coref set-id="set_41">
+<coref set-id="set_87">
 <w pos="dt">the</w>
 <w pos="nn">presidency</w>
 </coref>
@@ -4728,25 +4724,25 @@
 <w pos="cd">173</w>
 <w pos="vbn">received</w>
 <w pos="in">by</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">McCain</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_1">
+<coref set-id="set_36">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">won</w>
 <w pos="cd">52.9</w>
 <w pos="nn">%</w>
 <w pos="in">of</w>
-<coref set-id="set_2">
+<coref set-id="set_74">
 <w pos="dt">the</w>
 <w pos="jj">popular</w>
 <w pos="nn">vote</w>
 </coref>
 <w pos="to">to</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">McCain</w>
 </coref>
 <w pos="pos">'s</w>
@@ -4754,7 +4750,7 @@
 <w pos="nn">%</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">He</w>
 </coref>
 <w pos="vbd">became</w>
@@ -4765,22 +4761,22 @@
 <w pos="to">to</w>
 <w pos="vb">be</w>
 <w pos="vbn">elected</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nn">president</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">delivered</w>
-<coref set-id="set_49">
-<coref set-id="set_10">
+<coref set-id="set_102">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">victory</w>
 </coref>
-<coref set-id="set_70">
+<coref set-id="set_35">
 <w pos="nn">speech</w>
 </coref>
 <w pos="in">before</w>
@@ -4788,11 +4784,11 @@
 <w pos="in">of</w>
 <w pos="nns">thousands</w>
 <w pos="in">of</w>
-<coref set-id="set_98">
+<coref set-id="set_104">
 <w pos="nns">supporters</w>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos="pos">'s</w>
@@ -4806,11 +4802,11 @@
 <w pos=",">,</w>
 <w pos="cd">2011</w>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">announced</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">re-election</w>
@@ -4822,28 +4818,28 @@
 <w pos="nn">video</w>
 <w pos="vbn">titled</w>
 <w pos="&quot;">"</w>
-<coref set-id="set_57">
+<coref set-id="set_76">
 <w pos="prp">It</w>
 </coref>
 <w pos="vbz">Begins</w>
 <w pos="in">with</w>
-<coref set-id="set_39">
+<coref set-id="set_82">
 <w pos="nns">Us</w>
 </coref>
 <w pos="&quot;">"</w>
 <w pos="in">that</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">posted</w>
 <w pos="in">on</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">website</w>
 <w pos="cc">and</w>
 <w pos="vbd">filed</w>
-<coref set-id="set_99">
+<coref set-id="set_42">
 <w pos="nn">election</w>
 </coref>
 <w pos="nns">papers</w>
@@ -4855,12 +4851,12 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">As</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">the</w>
 <w pos="jj">incumbent</w>
 <w pos="nn">president</w>
 </coref>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">he</w>
 </coref>
 <w pos="vbd">ran</w>
@@ -4868,7 +4864,7 @@
 <w pos="jj">unopposed</w>
 <w pos="in">in</w>
 <w pos="dt">the</w>
-<coref set-id="set_94">
+<coref set-id="set_32">
 <w pos="nnp">Democratic</w>
 <w pos="nnp">Party</w>
 </coref>
@@ -4882,7 +4878,7 @@
 <w pos=",">,</w>
 <w pos="cd">2012</w>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">had</w>
@@ -4890,14 +4886,14 @@
 <w pos="dt">the</w>
 <w pos="cd">2778</w>
 <w pos="nn">convention</w>
-<coref set-id="set_17">
+<coref set-id="set_43">
 <w pos="nns">delegates</w>
 </coref>
 <w pos="vbd">needed</w>
 <w pos="to">to</w>
 <w pos="vb">win</w>
 <w pos="dt">the</w>
-<coref set-id="set_94">
+<coref set-id="set_32">
 <w pos="jj">Democratic</w>
 </coref>
 <w pos="nn">nomination</w>
@@ -4905,7 +4901,7 @@
 </s><s>
 <w pos="in">At</w>
 <w pos="dt">the</w>
-<coref set-id="set_94">
+<coref set-id="set_32">
 <w pos="jj">Democratic</w>
 <w pos="nnp">National</w>
 <w pos="nnp">Convention</w>
@@ -4916,7 +4912,7 @@
 <w pos="nnp">North</w>
 <w pos="nnp">Carolina</w>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="jj">former</w>
 <w pos="nnp">President</w>
 <w pos="nnp">Bill</w>
@@ -4924,38 +4920,38 @@
 </coref>
 <w pos="rb">formally</w>
 <w pos="vbd">nominated</w>
-<coref set-id="set_10">
-<coref set-id="set_10">
+<coref set-id="set_2">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="cc">and</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Joe</w>
 <w pos="nnp">Biden</w>
 </coref>
 </coref>
 <w pos="in">as</w>
-<coref set-id="set_17">
+<coref set-id="set_43">
 <w pos="dt">the</w>
-<coref set-id="set_94">
+<coref set-id="set_32">
 <w pos="nnp">Democratic</w>
 <w pos="nnp">Party</w>
 </coref>
 <w pos="nns">candidates</w>
 </coref>
 <w pos="in">for</w>
-<coref set-id="set_10">
-<coref set-id="set_10">
+<coref set-id="set_2">
+<coref set-id="set_2">
 <w pos="nn">president</w>
 </coref>
 <w pos="cc">and</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nn">vice</w>
 <w pos="nn">president</w>
 </coref>
 </coref>
 <w pos="in">in</w>
-<coref set-id="set_62">
+<coref set-id="set_38">
 <w pos="dt">the</w>
 <w pos="jj">general</w>
 <w pos="nn">election</w>
@@ -4963,8 +4959,8 @@
 <w pos=",">,</w>
 <w pos="in">in</w>
 <w pos="wdt">which</w>
-<coref set-id="set_17">
-<coref set-id="set_17">
+<coref set-id="set_43">
+<coref set-id="set_43">
 <w pos="prp$">their</w>
 </coref>
 <w pos="jj">main</w>
@@ -4972,12 +4968,12 @@
 </coref>
 <w pos="vbd">were</w>
 <w pos="nnps">Republicans</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Mitt</w>
 <w pos="nnp">Romney</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">the</w>
 <w pos="jj">former</w>
 <w pos="nn">governor</w>
@@ -4986,7 +4982,7 @@
 <w pos="nnp">Massachusetts</w>
 <w pos=",">,</w>
 <w pos="cc">and</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Representative</w>
 <w pos="nnp">Paul</w>
 <w pos="nnp">Ryan</w>
@@ -4996,12 +4992,12 @@
 <w pos=".">.</w>
 </s><s>
 <w pos="in">On</w>
-<coref set-id="set_47">
+<coref set-id="set_52">
 <w pos="nnp">November</w>
 <w pos="cd">6</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">2012</w>
 <w pos="nnp">Obama</w>
 </coref>
@@ -5015,14 +5011,14 @@
 <w pos="cd">270</w>
 <w pos="vbn">required</w>
 <w pos="in">for</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="prp">him</w>
 </coref>
 <w pos="to">to</w>
 <w pos="vb">be</w>
 <w pos="vbn">re-elected</w>
 <w pos="in">as</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nn">president</w>
 </coref>
 <w pos=".">.</w>
@@ -5031,24 +5027,24 @@
 <w pos="cd">51</w>
 <w pos="nn">%</w>
 <w pos="in">of</w>
-<coref set-id="set_2">
+<coref set-id="set_74">
 <w pos="dt">the</w>
 <w pos="jj">popular</w>
 <w pos="nn">vote</w>
 </coref>
 <w pos=",">,</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">became</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="dt">the</w>
 <w pos="jj">first</w>
 <w pos="jj">Democratic</w>
 <w pos="nn">president</w>
 </coref>
 <w pos="in">since</w>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">Franklin</w>
 <w pos="nnp">D.</w>
 <w pos="nnp">Roosevelt</w>
@@ -5056,39 +5052,39 @@
 <w pos="to">to</w>
 <w pos="rb">twice</w>
 <w pos="vb">win</w>
-<coref set-id="set_36">
+<coref set-id="set_40">
 <w pos="dt">the</w>
 <w pos="nn">majority</w>
 </coref>
 <w pos="in">of</w>
-<coref set-id="set_2">
+<coref set-id="set_74">
 <w pos="dt">the</w>
 <w pos="jj">popular</w>
 <w pos="nn">vote</w>
 </coref>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_10">
+<coref set-id="set_2">
 <w pos="nnp">President</w>
 <w pos="nnp">Obama</w>
 </coref>
 <w pos="vbd">addressed</w>
-<coref set-id="set_98">
+<coref set-id="set_104">
 <w pos="nns">supporters</w>
 </coref>
 <w pos="cc">and</w>
 <w pos="nns">volunteers</w>
 <w pos="in">at</w>
-<coref set-id="set_0">
+<coref set-id="set_24">
 <w pos="nnp">Chicago</w>
 </coref>
 <w pos="pos">'s</w>
-<coref set-id="set_91">
+<coref set-id="set_118">
 <w pos="nnp">McCormick</w>
 </coref>
 <w pos="nnp">Place</w>
 <w pos="in">after</w>
-<coref set-id="set_91">
+<coref set-id="set_118">
 <w pos="prp$">his</w>
 </coref>
 <w pos="nn">reelection</w>
@@ -5097,7 +5093,7 @@
 <w pos=":">:</w>
 <w pos="&quot;">"</w>
 <w pos="uh">Tonight</w>
-<coref set-id="set_3">
+<coref set-id="set_59">
 <w pos="prp">you</w>
 </coref>
 <w pos="vbd">voted</w>
@@ -5110,23 +5106,23 @@
 <w pos="jj">usual</w>
 <w pos=".">.</w>
 </s><s>
-<coref set-id="set_3">
+<coref set-id="set_59">
 <w pos="prp">You</w>
 </coref>
 <w pos="vbd">elected</w>
-<coref set-id="set_39">
+<coref set-id="set_82">
 <w pos="prp">us</w>
 </coref>
 <w pos="to">to</w>
 <w pos="vb">focus</w>
 <w pos="in">on</w>
-<coref set-id="set_3">
+<coref set-id="set_59">
 <w pos="prp$">your</w>
 </coref>
 <w pos="nns">jobs</w>
 <w pos=",">,</w>
 <w pos="rb">not</w>
-<coref set-id="set_39">
+<coref set-id="set_82">
 <w pos="jj">ours</w>
 </coref>
 <w pos=".">.</w>
@@ -5139,7 +5135,7 @@
 <w pos="cc">and</w>
 <w pos="nns">months</w>
 <w pos=",">,</w>
-<coref set-id="set_117">
+<coref set-id="set_51">
 <w pos="prp">I</w>
 </coref>
 <w pos="vbp">am</w>
