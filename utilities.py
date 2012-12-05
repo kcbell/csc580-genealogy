@@ -40,10 +40,10 @@ def toText(nodelist, readsents):
     for node in nodelist:
         pos = node.attributes['pos'].value
         word = getText(node.childNodes)
-        if pos == 'prp' and \
+        if (pos == 'prp' or pos == 'prp$') and \
            (word.lower() != 'it' and word.lower() != 'its' and \
             word.lower() != 'that'):
-            ref = getReference(pos,readsent,readsents)
+            ref = getReference(word.lower(),pos,readsent,readsents)
             if ref != None:
                 if pos == 'prp$':
                     ref = ref+"'s"
@@ -66,27 +66,21 @@ def toText(nodelist, readsents):
         result = ' '.join(rc)
     return result, readsent
     
-def lookAhead(nodelist, idx):
-    name = []
-    state = 1
-    loop = 10
-    count = 0
-    while count < loop and count < len(nodelist[idx:]):
-        node = nodelist[idx+count]
-        pos = node.attributes['pos'].value
-        name.append(getText(node.childNodes))
-        state = transition(state,pos)
-        if state == 9:
-            break
-        
-    if state == 3:
-        val = True
-    else:
-        val = False
-        
-    return val, ' '.join(name)
-
-def lookBack(sent):
+def lookBack(word,wpos,sent):
+    genderDict = {'they':'n','their':'n','them':'n',
+                  'i':'n','my':'n','me':'n',
+                  'we':'n','our':'n','us':'n',
+                  'you':'n','your':'n','you':'n',
+                  'he':'m','his':'m','him':'m',
+                  'she':'f','her':'f',
+                  'sister':'f','brother':'m',
+                  'daughter':'f','son':'m',
+                  'stepdaughter':'f','stepson':'m',
+                  'mother':'f','father':'m',
+                  'aunt':'f','uncle':'m',
+                  'niece':'f','nephew':'m'}
+    wgender = genderDict[word]
+    gen = 'n'
     name = []
     ref = None
     state = 1
@@ -97,19 +91,28 @@ def lookBack(sent):
     for tup in sent:
         #print tup
         pos = tup[1]
+        noun = tup[0].lower()
         state = transition(state,pos)
+        if state == 1 and pos == 'prp$' and word == noun:
+            break
         if state == 9 or state == 3:
             break
         if state == 2:
             name.append(tup[0])
+            if pos != 'nnp':
+                if genderDict.has_key(noun):
+                    gen = genderDict[noun]
+        
         
     if state == 3:
-        ref = ' '.join(name)
+        if (gen == wgender or gen == 'n') and wgender != 'n':
+            ref = ' '.join(name)
+            
     print name
         
     return ref
 
-def getReference(pos,readsent,readsents):
+def getReference(word,pos,readsent,readsents):
     ref = None
     loop = len(readsents)-1    
     verb = getVerb(readsent)
@@ -117,17 +120,17 @@ def getReference(pos,readsent,readsents):
         #look at last sentence
         count = loop
         while count >= 0:
-            ref = lookBack(readsents[count])
+            ref = lookBack(word,pos,readsents[count])
             if ref != None:
                 break
             count -= 1
     else:
         #look at current sentence
-        ref = lookBack(readsent)
+        ref = lookBack(word,pos,readsent)
         if ref == None:
             count = loop
             while count >= 0:
-                ref = lookBack(readsents[count])
+                ref = lookBack(word,pos,readsents[count])
                 if ref != None:
                     break
                 count -= 1
@@ -147,14 +150,15 @@ def getVerb(sent):
     return verb
 
 def transition(state,pos):
-    table = {1:{'nnp':2,'*':9},
-             2:{'nnp':2,'vb':3,'vbz':3,'vbd':3,'md':3,'-lrb-':6,',':4,'rb':5,'*':9},
+    #transition table for finite state machine
+    table = {1:{'nnp':2,'nn':2,'prp$':1,'*':1,'in':8},
+             2:{'nnp':2,'nn':2,'pos':2,'vb':3,'vbz':3,'vbd':3,'md':3,'-lrb-':6,',':4,'rb':5,'*':9},
              3:{'*':3},
              4:{'nnp':2,'vb':3,'vbz':3,'vbd':3,'md':3,'*':9},
              5:{'vb':3,'vbz':3,'vbd':3,'md':3,'*':9},
              6:{'-rrb-':7,'*':6},
              7:{'vb':3,'vbz':3,'vbd':3,'md':3,'*':9},
-             8:{'*':9},
+             8:{'*':8,',':1},
              9:{'*':9}}
     nextstates = table[state]
     if nextstates.has_key(pos):
@@ -163,16 +167,6 @@ def transition(state,pos):
         state = nextstates['*']
     return state
     
-def resolveRef(nnps):
-    word = ''
-    idx = len(nnps) - 1
-    if idx > 0:
-        word = nnps[idx]
-    else:
-        word = 'nnp of last sentence'
-               
-    return word
-
 def getText(nodelist):
     rc = []
     result = ''
@@ -181,7 +175,7 @@ def getText(nodelist):
             if node.data != '\n' and node.data != ' ':
                 rc.append(node.data)
     if len(rc) > 0:
-        result = ''.join(rc)
+        result = ' '.join(rc)
     return result
 
 def getName(nodelist):
@@ -191,46 +185,7 @@ def getName(nodelist):
         #if pos == "nnp":
         rc.append(getText(node.childNodes))
     return ' '.join(rc), pos
-
-def solveCoref(corefDict, node):
-    name,pos = getName(node.getElementsByTagName("w"))
-    setid = node.attributes['set-id'].value
-    if corefDict.has_key(setid):
-         name = corefDict[setid]
-         if pos == "prp$":
-             name += "'s"
-    else:
-        if name == "the 44th and current President":
-            corefDict[setid] = "Barack Obama"
-        else:
-            corefDict[setid] = name
-    return name, pos, corefDict
-
-def allToText(wordlist):
-    rc = []
-    for word in wordlist:
-        rc.append(word[0])
-    return ' '.join(rc)
-
-def toTuple(nodelist, corefDict):
-    rc = []
-    for node in nodelist:
-        if node.nodeType == node.TEXT_NODE:
-            name = node.data
-            #print name
-            #print node
-            if name != '\n':
-                pos = node.parentNode.attributes['pos'].value
-                rc.append((name,pos))
-        else:
-            if node.tagName == "coref":
-                name, pos, corefDict = solveCoref(corefDict, node)
-                if name != '\n':
-                    rc.append((name, pos))
-            else:
-                rc.extend(toTuple(node.childNodes,corefDict))
-    return rc
-    
+  
 
 def isRelationship(text):
     query = '|'.join(Queries)
@@ -274,7 +229,7 @@ def main():
     files = [filename]
     for filename in files:
         texts, tups = extractRelationInfo(filename)
-        saveFile('_obama.txt', ''.join(texts), 'txt')
+        saveFile('_obama.txt', ' '.join(texts), 'txt')
         #saveFile(filename + '_tups', tups, 'txt')
         print filename
         #print texts
