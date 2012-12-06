@@ -211,7 +211,7 @@ def clean(html):
             
 def saveFile(fname, content, suffix):
     print fname
-    f = fname.replace("htm",suffix)
+    f = fname.replace("xml",suffix)
     output_file = open(f,'w')
     output_file.write(content)
     output_file.close()
@@ -224,12 +224,12 @@ def openFile(f):
     return puz
            
 def main():
-    filename = "Barack_Obama1.xml"
-    #files = [f for f in os.listdir('.')]
-    files = [filename]
+    #filename = "Barack_Obama1.xml"
+    files = [f for f in os.listdir('.') if re.match(r'.*\.xml$', f)]
+    #files = [filename]
     for filename in files:
         texts, tups = extractRelationInfo(filename)
-        saveFile('_obama.txt', ' '.join(texts), 'txt')
+        saveFile('_'+filename, ' '.join(texts), 'txt')
         #saveFile(filename + '_tups', tups, 'txt')
         print filename
         #print texts
