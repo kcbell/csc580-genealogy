@@ -78,10 +78,16 @@ def lookBack(word,wpos,sent):
                   'stepdaughter':'f','stepson':'m',
                   'mother':'f','father':'m',
                   'aunt':'f','uncle':'m',
-                  'niece':'f','nephew':'m'}
+                  'niece':'f','nephew':'m',
+                  'Barack':'m','obama':'m','michelle':'f','robinson':'f','anne':'f','dunham':'f'}
+    #print word
     wgender = genderDict[word]
     gen = 'n'
+    gen2 = 'n'
+    gen3 = 'n'
     name = []
+    name2 = []
+    name3 = []
     ref = None
     state = 1
     #print sent
@@ -95,21 +101,41 @@ def lookBack(word,wpos,sent):
         state = transition(state,pos)
         if state == 1 and pos == 'prp$' and word == noun:
             break
-        if state == 9 or state == 3:
+        if state == 9:
             break
         if state == 2:
             name.append(tup[0])
-            if pos != 'nnp':
-                if genderDict.has_key(noun):
-                    gen = genderDict[noun]
+            #if pos != 'nnp':
+            if genderDict.has_key(noun):
+                gen = genderDict[noun]
+                
+        if state == 10:
+            name2.append(tup[0])
+            #if pos != 'nnp':
+            if genderDict.has_key(noun):
+                gen2 = genderDict[noun]
+
+        if state == 11:
+            name3.append(tup[0])
+            #if pos != 'nnp':
+            if genderDict.has_key(noun):
+                gen3 = genderDict[noun]
         
         
-    if state == 3:
-        if (gen == wgender or gen == 'n') and wgender != 'n':
-            ref = ' '.join(name)
+    #if state == 3 or state == 10:
+    if word == 'they' or word == 'their' or word == 'them':
+        if name and name3:
+            print name
+            print name3
+            ref = ' '.join(name) + ' and ' + ' '.join(name3)
+        elif name and name2:
+            print name
+            print name2
+            ref = ' '.join(name) + ' and ' + ' '.join(name2)
+    elif (gen == wgender) and wgender != 'n' and name:
+        ref = ' '.join(name)
             
-    print name
-        
+    #print name        
     return ref
 
 def getReference(word,pos,readsent,readsents):
@@ -151,15 +177,18 @@ def getVerb(sent):
 
 def transition(state,pos):
     #transition table for finite state machine
-    table = {1:{'nnp':2,'nn':2,'prp$':1,'*':1,'in':8},
-             2:{'nnp':2,'nn':2,'pos':2,'vb':3,'vbz':3,'vbd':3,'md':3,'-lrb-':6,',':4,'rb':5,'*':9},
-             3:{'*':3},
+    table = {1:{'nnp':2,'nn':2,'prp$':1,'*':1,'in':8,'vbn':8},
+             2:{'nnp':2,'nn':2,'pos':2,'vb':3,'vbz':3,'vbd':3,'md':3,'-lrb-':6,',':4,'rb':5,'*':9,'cc':11},
+             3:{'nnp':10,'nn':10,'prp$':10,'*':9},
              4:{'nnp':2,'vb':3,'vbz':3,'vbd':3,'md':3,'*':9},
              5:{'vb':3,'vbz':3,'vbd':3,'md':3,'*':9},
              6:{'-rrb-':7,'*':6},
              7:{'vb':3,'vbz':3,'vbd':3,'md':3,'*':9},
              8:{'*':8,',':1},
-             9:{'*':9}}
+             9:{'*':9},
+             10:{'nnp':10,'nn':10,'prp$':10,'*':9},
+             11:{'nnp':11,'nn':11,'pos':11,'prp$':11,'vb':3,'vbz':3,'vbd':3,'md':3,'-lrb-':6,',':4,'rb':5,'*':9}}
+    
     nextstates = table[state]
     if nextstates.has_key(pos):
         state = nextstates[pos]
@@ -222,14 +251,30 @@ def openFile(f):
     puz = input_file.read()
     input_file.close()
     return puz
-           
+
+def extractRelation(sents):
+    regexps = [r"([A-Z]\w*)'s\s(\w*)\s?,\s?(([A-Z]\w*\s+,?\s?)*)",
+               r"([A-Z]\w*)\shas\s\w*\s(\w*)\s?,\s?(([A-Z]\w*\s)*)",
+               r""]
+    for s in sents:
+        match = re.match(r"([A-Z]\w*)'s\s(\w*)\s?,\s?(([A-Z]\w*\s+,?\s?)*)", s)
+        if match:
+            print (match.group(1),match.group(2),match.group(3))
+            
+def selectRelSents(sents):
+    for s in sents:
+        if isRelationship(s):
+            print s
+        
 def main():
-    #filename = "Barack_Obama1.xml"
-    files = [f for f in os.listdir('.') if re.match(r'.*\.xml$', f)]
-    #files = [filename]
+    filename = "Barack_Obama3.xml"
+    #files = [f for f in os.listdir('.') if re.match(r'.*\.xml$', f)]
+    files = [filename]
     for filename in files:
         texts, tups = extractRelationInfo(filename)
-        saveFile('_'+filename, ' '.join(texts), 'txt')
+        selectRelSents(texts)
+        #extractRelation(texts)
+        #saveFile('_'+filename, ' '.join(texts), 'txt')
         #saveFile(filename + '_tups', tups, 'txt')
         print filename
         #print texts
