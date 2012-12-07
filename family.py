@@ -22,7 +22,7 @@ class RelationType(object):
 class Person(object):
     MALE, FEMALE = range(2)
     
-    def __init__(self, cnames, onames, gender = None):
+    def __init__(self, cnames, onames = [], gender = None):
         self.cnames = set()
         for name in cnames:
             self.cnames.add(name)
@@ -73,17 +73,10 @@ class Relation(object):
 
 PARENT = RelationType("Parent", "Child")
 CHILD = PARENT.swap()
+GRANDPARENT = RelationType("Grandparent", "Grandchild")
+GRANDCHILD = GRANDPARENT.swap()
+AUNTUNC = RelationType("Aunt/Uncle", "Nephew/Niece")
+NEPHNIECE = AUNTUNC.swap()
 SIBLING = RelationType("Sibling", "Sibling")
 SPOUSE = RelationType("Spouse", "Spouse")
-
-def Parent(parent, child):
-    return Relation(parent, PARENT, child)
-
-def Child(child, parent):
-    return Relation(child, CHILD, parent)
-
-def Sibling(sib1, sib2):
-    return Relation(sib1, SIBLING, sib2)
-
-def Spouse(sp1, sp2):
-    return Relation(sp1, SPOUSE, sp2)
+COUSIN = RelationType("Cousin", "Cousin")
