@@ -79,7 +79,7 @@ def lookBack(word,wpos,sent):
                   'mother':'f','father':'m',
                   'aunt':'f','uncle':'m',
                   'niece':'f','nephew':'m',
-                  'Barack':'m','obama':'m','michelle':'f','robinson':'f','anne':'f','dunham':'f'}
+                  'lolo':'m','barack':'m','obama':'m','michelle':'f','robinson':'f','ann':'f','dunham':'f'}
     #print word
     wgender = genderDict[word]
     gen = 'n'
@@ -103,19 +103,19 @@ def lookBack(word,wpos,sent):
             break
         if state == 9:
             break
-        if state == 2:
+        if state == 2 and pos == 'nnp':
             name.append(tup[0])
             #if pos != 'nnp':
             if genderDict.has_key(noun):
                 gen = genderDict[noun]
                 
-        if state == 10:
+        if state == 10 and pos == 'nnp':
             name2.append(tup[0])
             #if pos != 'nnp':
             if genderDict.has_key(noun):
                 gen2 = genderDict[noun]
 
-        if state == 11:
+        if state == 11 and pos == 'nnp':
             name3.append(tup[0])
             #if pos != 'nnp':
             if genderDict.has_key(noun):
@@ -177,8 +177,8 @@ def getVerb(sent):
 
 def transition(state,pos):
     #transition table for finite state machine
-    table = {1:{'nnp':2,'nn':2,'prp$':1,'*':1,'in':8,'vbn':8},
-             2:{'nnp':2,'nn':2,'pos':2,'vb':3,'vbz':3,'vbd':3,'md':3,'-lrb-':6,',':4,'rb':5,'*':9,'cc':11},
+    table = {1:{'nnp':2,'nn':1,'nns':1,'prp$':1,'*':1,'in':8,'vbn':8},
+             2:{'nnp':2,'nn':2,'pos':1,'vb':3,'vbz':3,'vbd':3,'md':3,'-lrb-':6,',':4,'rb':5,'*':9,'cc':11,'prp$':1},
              3:{'nnp':10,'nn':10,'prp$':10,'*':9},
              4:{'nnp':2,'vb':3,'vbz':3,'vbd':3,'md':3,'*':9},
              5:{'vb':3,'vbz':3,'vbd':3,'md':3,'*':9},
